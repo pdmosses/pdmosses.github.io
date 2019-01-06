@@ -1,7 +1,5 @@
 # Peter D Mosses    ![Photo of Peter D Mosses](http://cs.swansea.ac.uk/~cspdm/images/PDM2013-150x200.jpg)
 
-Personal home page (draft)
-
 > BA, MSc, DPhil ([Oxford University](http://www.ox.ac.uk/))
 >
 > [p.d.mosses@swansea.ac.uk](mailto:p.d.mosses@swansea.ac.uk)
