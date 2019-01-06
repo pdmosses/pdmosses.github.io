@@ -19,9 +19,9 @@ The focus of my current research is further development of the component-based a
 
 - **SIS – Semantics Implementation System** (1979): *Reference Manual* (PDF), *Tested Examples* (PDF), copied from the [**Semantics Library**](http://homepages.cs.ncl.ac.uk/cliff.jones/semantics-library/) of [Cliff B Jones](http://homepages.cs.ncl.ac.uk/cliff.jones/)
 
-- **My festschrift:** [*Semantics and Algebraic Specification*](http://www.springer.com/computer/foundations/book/978-3-642-04163-1), edited by [Jens Palsberg](http://www.cs.ucla.edu/~palsberg/), with contributions by many international colleagues and former students
+- **My festschrift:** [*Semantics and Algebraic Specification*](http://www.springer.com/computer/foundations/book/978-3-642-04163-1), edited by [Jens Palsberg](http://www.cs.ucla.edu/~palsberg/), with contributions by many international colleagues and former students, published by Springer as  [LNCS 5700](http://www.springer.com/computer/foundations/book/978-3-642-04163-1):
 
-  > [![img](http://cs.swansea.ac.uk/~cspdm/images/cda_displayimage.jpg)](http://www.springer.com/computer/foundations/book/978-3-642-04163-1)    published by Springer as [LNCS 5700](http://www.springer.com/computer/foundations/book/978-3-642-04163-1)
+  > [![img](http://cs.swansea.ac.uk/~cspdm/images/cda_displayimage.jpg)](http://www.springer.com/computer/foundations/book/978-3-642-04163-1) 
 
 ## Meetings
 
