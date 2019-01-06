@@ -1,4 +1,4 @@
-# Peter D Mosses    ![Photo of Peter D Mosses](http://cs.swansea.ac.uk/~cspdm/images/PDM2013-150x200.jpg)
+# Peter D Mosses
 
 > BA, MSc, DPhil ([Oxford University](http://www.ox.ac.uk/))
 >
