@@ -21,7 +21,7 @@ The focus of my current research is further development of the component-based a
 
 - **My festschrift:** [*Semantics and Algebraic Specification*](http://www.springer.com/computer/foundations/book/978-3-642-04163-1), edited by [Jens Palsberg](http://www.cs.ucla.edu/~palsberg/), with contributions by many international colleagues and former students
 
-  > [![img](http://cs.swansea.ac.uk/~cspdm/images/cda_displayimage.jpg)](http://www.springer.com/computer/foundations/book/978-3-642-04163-1)  published by Springer as [LNCS 5700](http://www.springer.com/computer/foundations/book/978-3-642-04163-1)
+  > [![img](http://cs.swansea.ac.uk/~cspdm/images/cda_displayimage.jpg)](http://www.springer.com/computer/foundations/book/978-3-642-04163-1)    published by Springer as [LNCS 5700](http://www.springer.com/computer/foundations/book/978-3-642-04163-1)
 
 ## Meetings
 
