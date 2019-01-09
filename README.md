@@ -42,15 +42,15 @@ Recent and forthcoming meetings in which I'm involved (in chronological order):
 
 ## Current affiliations
 
-- **[Swansea University](http://www.swansea.ac.uk/):** Department of [Computer Science](http://www.swansea.ac.uk/compsci/) 
+- **[Swansea University](http://www.swansea.ac.uk/):** Department of [Computer Science](http://www.swansea.ac.uk/compsci/)  
   (professor 2005–2015, emeritus since 2016)
-- **[TU Delft](https://www.tudelft.nl/en/):** Research group on [Programming Languages](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/programming-languages/)
+- **[TU Delft](https://www.tudelft.nl/en/):** Research group on [Programming Languages](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/programming-languages/)  
   (visitor since 2016)
-- **[WG 1.3](http://ifipwg13.informatik.uni-bremen.de/):** IFIP Working Group on Foundations of System Speciﬁcation 
+- **[WG 1.3](http://ifipwg13.informatik.uni-bremen.de/):** IFIP Working Group on Foundations of System Speciﬁcation  
   (member 1994–2015, chair 1998–2003, emeritus member since 2015)
-- **[WG 2.2](http://wg22.labri.fr/):** IFIP Working Group on Formal Description of Programming Concepts 
+- **[WG 2.2](http://wg22.labri.fr/):** IFIP Working Group on Formal Description of Programming Concepts  
   (member since 1984)
-- **[WG 2.11](https://wiki.hh.se/wg211/):** IFIP Working Group on Program Generation 
+- **[WG 2.11](https://wiki.hh.se/wg211/):** IFIP Working Group on Program Generation  
   (member since 2013)
 
 ## Resources
@@ -63,4 +63,3 @@ Recent and forthcoming meetings in which I'm involved (in chronological order):
 - [MacTeX](http://www.tug.org/mactex/)
 - [Identify the Champion](http://www.iam.unibe.ch/~oscar/Champion/)
 - [Computer Science for Fun!](http://www.cs4fn.org/)
-
