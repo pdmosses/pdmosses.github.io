@@ -10,6 +10,12 @@
 
 The focus of my current research is further development of the component-based approach to semantics of programming languages, established by the **[PLanCompS](http://www.plancomps.org/)** project, together with tool support and major case studies.
 
+## Publications
+
+[ORCID](http://orcid.org/0000-0002-5826-7520) • [Google Scholar](https://scholar.google.co.uk/citations?user=fIK8JS8AAAAJ) • [ResearchGate](http://www.researchgate.net/profile/Peter_Mosses) • [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Mosses%3APeter_D=.html) • [AMiner](http://aminer.org/profile/53f439bbdabfaeee229c9f29)
+
+### Highlights
+
 - **[Beta-release of CBS](https://plancomps.github.io/CBS-beta/)** – a framework for component-based specification of programming languages
 
   - [*Funcons-beta*](https://plancomps.github.io/CBS-beta/Funcons-beta/): an initial library of 'funcons' (fundamental programming constructs)
@@ -33,3 +39,28 @@ Recent and forthcoming meetings in which I'm involved (in chronological order):
 - [FSEN 2019](http://fsen.ir/2019/): *8th IPM International Conference on Fundamentals of Software Engineering*, Tehran, Iran, 1–3 May 2019 (PC member)
 - [SBLP 2019](http://cbsoft2019.ufba.br/sblp.html): XXIII Brazilian Symposium on Programming Languages, Universidade Federal da Bahia – UFBA, Salvador, Brazil, 23–27 September 2019 (PC member)
 - [HFM 2019](https://sites.google.com/view/hfm2019/): *History of Formal Methods Workshop*, Porto, Portugal, 11 October 2019 (PC member) 
+
+## Current affiliations
+
+- **[Swansea University](http://www.swansea.ac.uk/):** Department of [Computer Science](http://www.swansea.ac.uk/compsci/) 
+  (professor 2005–2015, emeritus since 2016)
+- **[TU Delft](https://www.tudelft.nl/en/):** Research group on [Programming Languages](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/programming-languages/)
+  (visitor since 2016)
+- **[WG 1.3](http://ifipwg13.informatik.uni-bremen.de/):** IFIP Working Group on Foundations of System Speciﬁcation 
+  (member 1994–2015, chair 1998–2003, emeritus member since 2015)
+- **[WG 2.2](http://wg22.labri.fr/):** IFIP Working Group on Formal Description of Programming Concepts 
+  (member since 1984)
+- **[WG 2.11](https://wiki.hh.se/wg211/):** IFIP Working Group on Program Generation 
+  (member since 2013)
+
+## Resources
+
+- [Spoofax](http://www.metaborg.org/en/latest/)
+- [GitHub](https://github.com): [Pages](https://pages.github.com), [Desktop](https://desktop.github.com)
+- [Atom Editor](https://atom.io)
+- [Typora](https://typora.io)
+- [MacPorts](https://www.macports.org)
+- [MacTeX](http://www.tug.org/mactex/)
+- [Identify the Champion](http://www.iam.unibe.ch/~oscar/Champion/)
+- [Computer Science for Fun!](http://www.cs4fn.org/)
+
