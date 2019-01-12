@@ -6,7 +6,7 @@ This page is an archive of items that are unlikely to be of interest (other than
 
 ## Previous affiliations (1967–2015)
 
-- **[UKCRC](http://www.ukcrc.org.uk/):** an expert panel of the IET and the BCS for computing research in the UK  
+- **[UKCRC](http://www.ukcrc.org.uk/):** an expert panel for computing research  
   (member 2007–2015) 
 - **[Theory Group, Swansea](https://www.swansea.ac.uk/compsci/research-and-impact/theoretical-computer-science/):** university research group  
   (member 2005–2015)
