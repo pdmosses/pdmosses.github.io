@@ -10,6 +10,8 @@
 
 The focus of my current research is further development of the component-based approach to semantics of programming languages, established by the **[PLanCompS](http://www.plancomps.org/)** project, together with tool support and major case studies.
 
+My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea University is no longer updated, and will be removed. All items of potential current interest have been copied to this new home page.
+
 ## Publications
 
 [ORCID](http://orcid.org/0000-0002-5826-7520) • [Google Scholar](https://scholar.google.co.uk/citations?user=fIK8JS8AAAAJ) • [ResearchGate](http://www.researchgate.net/profile/Peter_Mosses) • [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Mosses%3APeter_D=.html) • [AMiner](http://aminer.org/profile/53f439bbdabfaeee229c9f29)
@@ -67,4 +69,3 @@ Recent and forthcoming meetings in which I'm involved (in chronological order):
 - [Mac OS](https://www.apple.com/macos/) operating system
 - [MacPorts](https://www.macports.org) package manager
 - [MacTeX](http://www.tug.org/mactex/) TeXLive distribution
-
