@@ -6,17 +6,17 @@ This page is an archive of items that are unlikely to be of any interest (other 
 
 ## Previous affiliations (1995–2015)
 
-- [**UKCRC**](http://www.ukcrc.org.uk/): an expert panel of the IET and the BCS for computing research in the UK
+- **[UKCRC](http://www.ukcrc.org.uk/):** an expert panel of the IET and the BCS for computing research in the UK
   (member 2007–2015) 
-- [**Theory Group, Swansea University**](https://www.swansea.ac.uk/compsci/research-and-impact/theoretical-computer-science/): Research group
+- **[Theory Group, Swansea University](https://www.swansea.ac.uk/compsci/research-and-impact/theoretical-computer-science/):** Research group
   (member 2005–2015)
-- [**CoFI**](http://www.cofi.info/): *Common Framework Initiative for algebraic speciﬁcation and development* 
+- **[CoFI](http://www.cofi.info/):** *Common Framework Initiative for algebraic speciﬁcation and development* 
   (steering committee member 1995–2005, overall coordinator 1995–98)
-- [**SCP**](https://www.journals.elsevier.com/science-of-computer-programming): *Science of Computer Programming* journal
+- **[SCP](https://www.journals.elsevier.com/science-of-computer-programming):** *Science of Computer Programming* journal
   (editorial board member 2010–2015)
-- [**HOSC**](https://link.springer.com/journal/10990): *Higher-Order and Symbolic Computation* journal
+- **[HOSC](https://link.springer.com/journal/10990):** *Higher-Order and Symbolic Computation* journal
   (advisory board member 2003–2015)
-- [**STTT**](http://sttt.cs.uni-dortmund.de/): *Software Tools for Technology Transfer* journal
+- **[STTT](http://sttt.cs.uni-dortmund.de/):** *Software Tools for Technology Transfer* journal
   (advisory board member 1997–2015)
 
 ## Research topics (as of 2014)
