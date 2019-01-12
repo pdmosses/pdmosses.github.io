@@ -6,37 +6,37 @@ This page is an archive of items that are unlikely to be of interest (other than
 
 ## Previous affiliations (1967–2015)
 
-- **[UKCRC](http://www.ukcrc.org.uk/):** an expert panel of the IET and the BCS for computing research in the UK
+- **[UKCRC](http://www.ukcrc.org.uk/):** an expert panel of the IET and the BCS for computing research in the UK  
   (member 2007–2015) 
-- **[Theory Group, Swansea](https://www.swansea.ac.uk/compsci/research-and-impact/theoretical-computer-science/):** university research group
+- **[Theory Group, Swansea](https://www.swansea.ac.uk/compsci/research-and-impact/theoretical-computer-science/):** university research group  
   (member 2005–2015)
-- **[Computer Science, Swansea](https://www.swansea.ac.uk/compsci/):** university department
+- **[Computer Science, Swansea](https://www.swansea.ac.uk/compsci/):** university department  
   (professor 2005–2015, research committee chair 2006–2014)
-- **[SCP](https://www.journals.elsevier.com/science-of-computer-programming):** *Science of Computer Programming* journal
+- **[SCP](https://www.journals.elsevier.com/science-of-computer-programming):** *Science of Computer Programming* journal  
   (editorial board member 2010–2015)
-- **[HOSC](https://link.springer.com/journal/10990):** *Higher-Order and Symbolic Computation* journal
+- **[HOSC](https://link.springer.com/journal/10990):** *Higher-Order and Symbolic Computation* journal  
   (advisory board member 2003–2015)
-- **[CIn-UFPE, Recife](https://www2.cin.ufpe.br/en/):** university department
+- **[CIn-UFPE, Recife](https://www2.cin.ufpe.br/en/):** university department  
   (visiting researcher 2000)
-- **[Informatics, Warsaw](https://www.mimuw.edu.pl/en):** university department
+- **[Informatics, Warsaw](https://www.mimuw.edu.pl/en):** university department  
   (visiting researcher 1999)
-- **[SRI International, Menlo Park](https://www.sri.com/about/organization/information-computing-sciences/computer-science-laboratory):** research institute
+- **[SRI International, Menlo Park](https://www.sri.com/about/organization/information-computing-sciences/computer-science-laboratory):** research institute  
   (visiting researcher 1998–99)
-- **[STTT](http://sttt.cs.uni-dortmund.de/):** *Software Tools for Technology Transfer* journal
+- **[STTT](http://sttt.cs.uni-dortmund.de/):** *Software Tools for Technology Transfer* journal  
   (advisory board member 1997–2015)
-- **[CoFI](http://www.cofi.info/):** *Common Framework Initiative for algebraic speciﬁcation and development* 
+- **[CoFI](http://www.cofi.info/):** *Common Framework Initiative for algebraic speciﬁcation and development*  
   (steering committee member 1995–2005, overall coordinator 1995–98)
-- **[BRICS, Aarhus University](http://www.brics.dk):** university research centre
+- **[BRICS, Aarhus University](http://www.brics.dk):** university research centre  
   (kernel researcher 1993–2004)
-- **[Informatics, Edinburgh](https://www.ed.ac.uk/informatics):** university department
+- **[Informatics, Edinburgh](https://www.ed.ac.uk/informatics):** university department  
   (senior research fellow 1983)
-- **[Computer Science, Aarhus](http://cs.au.dk):** university department
+- **[Computer Science, Aarhus](http://cs.au.dk):** university department  
   (visiting lecturer 1976–78, associate professor 1978–2004, head 1995–98)
-- **[Wolfson, Oxford](https://www.wolfson.ox.ac.uk):** university college
+- **[Wolfson, Oxford](https://www.wolfson.ox.ac.uk):** university college  
   (graduate student 1971–75, junior research fellow 1975–76)
-- **[PRG, Oxford](http://www.cs.ox.ac.uk/aboutus/cshistory.html):** programming research group
+- **[PRG, Oxford](http://www.cs.ox.ac.uk/aboutus/cshistory.html):** programming research group  
   (MSc 1970–71, DPhil 1971–75, postdoc 1975–76)
-- **[Trinity, Oxford](https://www.trinity.ox.ac.uk):** university college
+- **[Trinity, Oxford](https://www.trinity.ox.ac.uk):** university college  
   (BA 1967–70, MSc 1970–71)
 
 ## Research topics (as of 2014)
