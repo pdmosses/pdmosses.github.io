@@ -55,11 +55,16 @@ Recent and forthcoming meetings in which I'm involved (in chronological order):
 
 ## Resources
 
-- [Spoofax](http://www.metaborg.org/en/latest/)
-- [GitHub](https://github.com): [Pages](https://pages.github.com), [Desktop](https://desktop.github.com)
-- [Atom Editor](https://atom.io)
-- [Typora](https://typora.io)
-- [MacPorts](https://www.macports.org)
-- [MacTeX](http://www.tug.org/mactex/)
-- [Identify the Champion](http://www.iam.unibe.ch/~oscar/Champion/)
-- [Computer Science for Fun!](http://www.cs4fn.org/)
+- [Spoofax](http://www.metaborg.org/en/latest/) language workbench
+- [GitHub](https://github.com): [Pages](https://pages.github.com), [Desktop](https://desktop.github.com) repository and website management
+- [Atom](https://atom.io) text editor
+- [Typora](https://typora.io) Markdown editor
+- [Identify the Champion](http://www.iam.unibe.ch/~oscar/Champion/) organisational pattern language for programme committees
+- [Computer Science for Fun!](http://www.cs4fn.org/) magazine
+
+### Mac OS
+
+- [Mac OS](https://www.apple.com/macos/) operating system
+- [MacPorts](https://www.macports.org) package manager
+- [MacTeX](http://www.tug.org/mactex/) TeXLive distribution
+
