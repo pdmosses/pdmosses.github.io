@@ -20,9 +20,7 @@
           <img src="{{site.logo | relative_url}}" alt="Photo of Peter D Mosses (2013)" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        <p><a href="{{ "/" | absolute_url }}">{{ site.github.repository_url }}</a></p> 
+        <p><a href="{{ "/" | absolute_url }}">{{ site.github.repository_url }}</a></p>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
