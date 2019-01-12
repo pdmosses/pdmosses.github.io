@@ -25,7 +25,7 @@ This page is an archive of items that are unlikely to be of interest (other than
 - **[STTT](http://sttt.cs.uni-dortmund.de/):** *Software Tools for Technology Transfer* journal  
   (advisory board member 1997–2015)
 - **[CoFI](http://www.cofi.info/):** *Common Framework Initiative for algebraic speciﬁcation and development*  
-  (steering committee member 1995–2005, overall coordinator 1995–98)
+  (steering committee member 1995–2005, coordinator 1995–98)
 - **[BRICS, Aarhus University](http://www.brics.dk):** university research centre  
   (kernel researcher 1993–2004)
 - **[Informatics, Edinburgh](https://www.ed.ac.uk/informatics):** university department  
