@@ -4,12 +4,14 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
 
 This page is an archive of items that are unlikely to be of interest (other than to myself). Links to external websites are not checked, and may no longer be valid.
 
-> - [Previous affiliations (1967–2015)](#previous-affiliations-19672015)
-> - [Research topics (as of 2014)](#research-topics-as-of-2014)
-> - [Links (as of 2014)](#links-as-of-2014)
-> - [Previous meetings (2005–2018)](#previous-meetings-20052018)
+> - [Previous affiliations (1967–2015)](#previous-affiliations)
+> - [Research topics (as of 2014)](#research-topics)
+> - [Links (as of 2014)](#links)
+> - [Previous meetings (2005–2018)](#previous-meetings)
 
-## Previous affiliations (1967–2015)
+## Previous affiliations
+
+### 1967–2015
 
 - **[SCP](https://www.journals.elsevier.com/science-of-computer-programming):** *Science of Computer Programming* journal  
   (editorial board member 2010–2015)
@@ -44,7 +46,9 @@ This page is an archive of items that are unlikely to be of interest (other than
 - **[Trinity, Oxford](https://www.trinity.ox.ac.uk):** university college  
   (BA 1967–70, MSc 1970–71)
 
-## Research topics (as of 2014)
+## Research topics
+
+### 2014
 
 Many of the topics mentioned below are involved in [PLanCompS](http://www.plancomps.org/) *(Programming Language Components and Specifications),* a joint research project based at [Swansea](https://www.swansea.ac.uk/compsci/), [RHUL](http://www.rhul.ac.uk/computerscience/) and [City](http://www.city.ac.uk/informatics/school-organisation/centre-for-human-computer-interaction-design), [funded by EPSRC](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/I032495/1), with project partner [Microsoft Research Cambridge](http://research.microsoft.com/ppt), 2011–2016.
 
@@ -122,7 +126,9 @@ This area concerns the formal speciﬁcation of requirements and design for soft
 
 > This is a variety of Horn-clause logic that allows algebraic speciﬁcation of type constructors. It was developed in the late 1980s, and used as the meta-notation for action semantics until the end of the 1990s.
 
-## Links (as of 2014)
+## Links
+
+### 2014
 
 ### Collaboration
 
@@ -144,7 +150,7 @@ This area concerns the formal speciﬁcation of requirements and design for soft
 - Christopher Mosses (my son) runs a software development company called [Manao Software](http://www.manaosoftware.com/) in Thailand, and a company called [Software Consult](http://www.softwareconsult.dk/) in Denmark 
 - [EasyChair](http://www.easychair.org/): Conference system
 
-## Previous meetings (2005–2018)
+## Previous meetings
 
 #### 2018
 
@@ -335,3 +341,6 @@ This area concerns the formal speciﬁcation of requirements and design for soft
 - [IFIP WG 1.3](http://www.fiadeiro.org/jose/IFIP-WG1.3/): *Working Group Meeting on Foundations of System Speciﬁcation*, Swansea, 7–8 September 2005 (local organizer)
 - [CALCO 2005](http://cs.swansea.ac.uk/calco/): *First Conference on Algebra and Coalgebra in Computer Science*, Swansea, 3–6 September 2005 (SC and PC member)
 - [CALCO-jnr 2005](http://cs.swansea.ac.uk/calco-jnr/): *CALCO Young Researchers Workshop*, Swansea, 2 September 2005 (organizing committee member)
+
+## 
+
