@@ -2,8 +2,6 @@
 
 > BA, MSc, DPhil ([Oxford University](http://www.ox.ac.uk/))
 >
-> [p.d.mosses@swansea.ac.uk](mailto:p.d.mosses@swansea.ac.uk)
->
 > [Professor Emeritus](http://www.swansea.ac.uk/staff/science/computer-science/p.d.mosses/), [Computer Science](http://www.swansea.ac.uk/compsci/), [Swansea University](http://www.swansea.ac.uk/), UK
 >
 > [Visitor](https://www.tudelft.nl/en/staff/p.d.mosses/), [Programming Languages Group](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/programming-languages/), [Software Technology](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/), [TU Delft](https://www.tudelft.nl/en/), The&nbsp;Netherlands
