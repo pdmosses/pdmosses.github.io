@@ -12,7 +12,7 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
 
 ## Publications
 
-[ORCID](http://orcid.org/0000-0002-5826-7520) • [Google Scholar](https://scholar.google.co.uk/citations?user=fIK8JS8AAAAJ) • [ResearchGate](http://www.researchgate.net/profile/Peter_Mosses) • [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Mosses%3APeter_D=.html) • [AMiner](http://aminer.org/profile/53f439bbdabfaeee229c9f29)
+[ORCID](http://orcid.org/0000-0002-5826-7520) • [Google Scholar](https://scholar.google.co.uk/citations?user=fIK8JS8AAAAJ) • [ResearchGate](http://www.researchgate.net/profile/Peter_Mosses) • [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Mosses%3APeter_D=.html) • [AMiner](http://aminer.org/profile/53f439bbdabfaeee229c9f29) • [GitHub](https://github.com/pdmosses)
 
 ### Highlights
 
