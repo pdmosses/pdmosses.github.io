@@ -4,16 +4,18 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
 
 This page is an archive of items that are unlikely to be of interest (other than to myself). Links to external websites are not checked, and may no longer be valid.
 
+[TOC]
+
 ## Previous affiliations (1967–2015)
 
+- **[SCP](https://www.journals.elsevier.com/science-of-computer-programming):** *Science of Computer Programming* journal  
+  (editorial board member 2010–2015)
 - **[UKCRC](http://www.ukcrc.org.uk/):** an expert panel for computing research  
   (member 2007–2015) 
 - **[Theory Group, Swansea](https://www.swansea.ac.uk/compsci/research-and-impact/theoretical-computer-science/):** university research group  
   (member 2005–2015)
 - **[Computer Science, Swansea](https://www.swansea.ac.uk/compsci/):** university department  
   (professor 2005–2015, research committee chair 2006–2014)
-- **[SCP](https://www.journals.elsevier.com/science-of-computer-programming):** *Science of Computer Programming* journal  
-  (editorial board member 2010–2015)
 - **[HOSC](https://link.springer.com/journal/10990):** *Higher-Order and Symbolic Computation* journal  
   (advisory board member 2003–2015)
 - **[CIn-UFPE, Recife](https://www2.cin.ufpe.br/en/):** university department  
@@ -34,14 +36,14 @@ This page is an archive of items that are unlikely to be of interest (other than
   (visiting lecturer 1976–78, associate professor 1978–2004, head 1995–98)
 - **[Wolfson, Oxford](https://www.wolfson.ox.ac.uk):** university college  
   (graduate student 1971–75, junior research fellow 1975–76)
-- **[PRG, Oxford](http://www.cs.ox.ac.uk/aboutus/cshistory.html):** programming research group  
+- **[PRG, Oxford](https://en.wikipedia.org/wiki/Programming_Research_Group):** programming research group  
   (MSc 1970–71, DPhil 1971–75, postdoc 1975–76)
 - **[Trinity, Oxford](https://www.trinity.ox.ac.uk):** university college  
   (BA 1967–70, MSc 1970–71)
 
 ## Research topics (as of 2014)
 
-Many of the topics mentioned below are involved in [PLanCompS](http://www.plancomps.org/) *(Programming Language Components and Specifications),* a joint research project based at Swansea, [RHUL](http://www.rhul.ac.uk/computerscience/) and [City](http://www.city.ac.uk/informatics/school-organisation/centre-for-human-computer-interaction-design), [funded](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/I032495/1) by EPSRC, with project partner [Microsoft Research Cambridge](http://research.microsoft.com/ppt), 2011–2016.
+Many of the topics mentioned below are involved in [PLanCompS](http://www.plancomps.org/) *(Programming Language Components and Specifications),* a joint research project based at [Swansea](https://www.swansea.ac.uk/compsci/), [RHUL](http://www.rhul.ac.uk/computerscience/) and [City](http://www.city.ac.uk/informatics/school-organisation/centre-for-human-computer-interaction-design), [funded by EPSRC](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/I032495/1), with project partner [Microsoft Research Cambridge](http://research.microsoft.com/ppt), 2011–2016.
 
 ### Semantics of Programming Languages
 
@@ -61,11 +63,11 @@ A further aim is to provide an online repository of reusable independent specifi
 
 **Modular SOS (MSOS and I-MSOS):**
 
-> MSOS is modular variant of Gordon Plotkin's Structural Operational Semantics, developed since the late 1990s. It allows the semantics of individual programming constructs to be specified independently, which is of crucial importance for the [*PLanCompS*](http://www.plancomps.org/) project.
+> MSOS is modular variant of [Gordon Plotkin](https://en.wikipedia.org/wiki/Gordon_Plotkin)'s Structural Operational Semantics, developed since the late 1990s. It allows the semantics of individual programming constructs to be specified independently, which is of crucial importance for the [*PLanCompS*](http://www.plancomps.org/) project.
 
 **Action Semantics:**
 
-> Action Semantics is a modular hybrid of denotational and operational semantics, developed since 1985, together with David Watt (Glasgow). 
+> Action Semantics is a modular hybrid of denotational and operational semantics, developed since 1985, together with [David Watt](http://www.dcs.gla.ac.uk/~daw/) (Glasgow). 
 >
 > A variant of Action Semantics has been exploited by the Object Management Group in connection with the Model Driven Architecture (MDA) technology and the Uniﬁed Modelling Language (UML).
 
@@ -75,7 +77,7 @@ A further aim is to provide an online repository of reusable independent specifi
 
 **Denotational Semantics:**
 
-> As a graduate student at the Programming Research Group in Oxford in the early 1970s, I worked on the framework developed by Dana Scott and Christopher Strachey.
+> As a graduate student at the [Programming Research Group](https://en.wikipedia.org/wiki/Programming_Research_Group) in Oxford in the early 1970s, I worked on the framework developed by [Dana Scott](https://en.wikipedia.org/wiki/Dana_Scott) and [Christopher Strachey](https://en.wikipedia.org/wiki/Christopher_Strachey).
 
 ### Tools
 
