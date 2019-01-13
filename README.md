@@ -23,7 +23,7 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
 
 - **[Modularity'16](http://2016.modularity.info/)** **Demonstration Track paper**: *[Tool support for component-based semantics](http://www.plancomps.org/modularity2016)*, with [Thomas van Binsbergen](https://pure.royalholloway.ac.uk/portal/en/persons/thomas-van-binsbergen(bf15f269-6564-44e7-a089-3495c671caf6).html) and [Neil Sculthorpe](http://www.cs.rhul.ac.uk/home/ucac009/)
 
-- **SIS – Semantics Implementation System** (1979): *[Reference Manual](http://cs.swansea.ac.uk/~cspdm/pub/DAIMI-MD-30.pdf)* (PDF), *[Tested Examples](http://cs.swansea.ac.uk/~cspdm/pub/DAIMI-MD-33.pdf)* (PDF), copied from the **[Semantics Library](http://homepages.cs.ncl.ac.uk/cliff.jones/semantics-library/)** of [Cliff B Jones](http://homepages.cs.ncl.ac.uk/cliff.jones/)
+- **SIS – Semantics Implementation System** (1979): *[Reference Manual](http://cs.swansea.ac.uk/~cspdm/pub/DAIMI-MD-30.pdf)* (PDF), *[Tested Examples](http://cs.swansea.ac.uk/~cspdm/pub/DAIMI-MD-33.pdf)* (PDF), copied from the **[Semantics Library](http://homepages.cs.ncl.ac.uk/cliff.jones/semantics-library/)** of [Cliff B Jones](http://homepages.cs.ncl.ac.uk/cliff.jones/)
 
 - **My festschrift:** [*Semantics and Algebraic Specification*](http://www.springer.com/computer/foundations/book/978-3-642-04163-1), edited by [Jens Palsberg](http://www.cs.ucla.edu/~palsberg/), with contributions by many international colleagues and former students, published by Springer as  [LNCS 5700](http://www.springer.com/computer/foundations/book/978-3-642-04163-1):
 
