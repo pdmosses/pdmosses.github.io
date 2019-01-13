@@ -1,10 +1,10 @@
 # Peter D Mosses
 
-> BA, MSc, DPhil ([Oxford University](http://www.ox.ac.uk/))
+> BA, MSc, DPhil ([Oxford University](http://www.ox.ac.uk/))
 >
-> [Professor Emeritus](http://www.swansea.ac.uk/staff/science/computer-science/p.d.mosses/), [Computer Science](http://www.swansea.ac.uk/compsci/), [Swansea University](http://www.swansea.ac.uk/), UK
+> [Professor Emeritus](http://www.swansea.ac.uk/staff/science/computer-science/p.d.mosses/), [Computer Science](http://www.swansea.ac.uk/compsci/), [Swansea University](http://www.swansea.ac.uk/), UK
 >
-> [Visitor](https://www.tudelft.nl/en/staff/p.d.mosses/), [Programming Languages Group](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/programming-languages/), [Software Technology](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/), [TU Delft](https://www.tudelft.nl/en/), The Netherlands
+> [Visitor](https://www.tudelft.nl/en/staff/p.d.mosses/), [Programming Languages Group](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/programming-languages/), [Software Technology](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/), [TU Delft](https://www.tudelft.nl/en/), The Netherlands
 
 The focus of my current research is further development of the component-based approach to semantics of programming languages, established by the **[PLanCompS](http://www.plancomps.org/)** project, together with tool support and major case studies.
 
@@ -21,11 +21,11 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
   - [*Funcons-beta*](https://plancomps.github.io/CBS-beta/Funcons-beta/): an initial library of 'funcons' (fundamental programming constructs)
   - [*Languages-beta*](https://plancomps.github.io/CBS-beta/Languages-beta/): several illustrative languages specified by translation to funcons
 
-- **[Modularity'16](http://2016.modularity.info/)** **Demonstration Track paper**: *[Tool support for component-based semantics](http://www.plancomps.org/modularity2016)*, with [Thomas van Binsbergen](https://pure.royalholloway.ac.uk/portal/en/persons/thomas-van-binsbergen(bf15f269-6564-44e7-a089-3495c671caf6).html) and [Neil Sculthorpe](http://www.cs.rhul.ac.uk/home/ucac009/)
+- **[Modularity'16](http://2016.modularity.info/)** **Demonstration Track paper**: *[Tool support for component-based semantics](http://www.plancomps.org/modularity2016)*, with [Thomas van Binsbergen](https://pure.royalholloway.ac.uk/portal/en/persons/thomas-van-binsbergen(bf15f269-6564-44e7-a089-3495c671caf6).html) and [Neil Sculthorpe](http://www.cs.rhul.ac.uk/home/ucac009/)
 
-- **SIS – Semantics Implementation System** (1979): *[Reference Manual](http://cs.swansea.ac.uk/~cspdm/pub/DAIMI-MD-30.pdf)* (PDF), *[Tested Examples](http://cs.swansea.ac.uk/~cspdm/pub/DAIMI-MD-33.pdf)* (PDF), copied from the **[Semantics Library](http://homepages.cs.ncl.ac.uk/cliff.jones/semantics-library/)** of [Cliff B Jones](http://homepages.cs.ncl.ac.uk/cliff.jones/)
+- **SIS – Semantics Implementation System** (1979): *[Reference Manual](http://cs.swansea.ac.uk/~cspdm/pub/DAIMI-MD-30.pdf)* (PDF), *[Tested Examples](http://cs.swansea.ac.uk/~cspdm/pub/DAIMI-MD-33.pdf)* (PDF), copied from the **[Semantics Library](http://homepages.cs.ncl.ac.uk/cliff.jones/semantics-library/)** of [Cliff B Jones](http://homepages.cs.ncl.ac.uk/cliff.jones/)
 
-- **My festschrift:** [*Semantics and Algebraic Specification*](http://www.springer.com/computer/foundations/book/978-3-642-04163-1), edited by [Jens Palsberg](http://www.cs.ucla.edu/~palsberg/), with contributions by many international colleagues and former students, published by Springer as  [LNCS 5700](http://www.springer.com/computer/foundations/book/978-3-642-04163-1):
+- **My festschrift:** [*Semantics and Algebraic Specification*](http://www.springer.com/computer/foundations/book/978-3-642-04163-1), edited by [Jens Palsberg](http://www.cs.ucla.edu/~palsberg/), with contributions by many international colleagues and former students, published by Springer as  [LNCS 5700](http://www.springer.com/computer/foundations/book/978-3-642-04163-1):
 
   > [![img](http://cs.swansea.ac.uk/~cspdm/images/cda_displayimage.jpg)](http://www.springer.com/computer/foundations/book/978-3-642-04163-1) 
 
