@@ -4,10 +4,10 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
 
 This page is an archive of items that are unlikely to be of interest (other than to myself). Links to external websites are not checked, and may no longer be valid.
 
-> - [Previous affiliations (1967–2015)](#previous-affiliations)
-> - [Research topics (as of 2014)](#research-topics)
-> - [Links (as of 2014)](#links)
-> - [Previous meetings (2005–2018)](#previous-meetings)
+> - [Previous affiliations](#previous-affiliations) (1967–2015)
+> - [Research topics](#research-topics) (as of 2014)
+> - [Links](#links) (as of 2014)
+> - [Previous meetings](#previous-meetings) (2005–2018)
 
 ## Previous affiliations
 
