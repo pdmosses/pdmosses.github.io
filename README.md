@@ -21,7 +21,7 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
   - [*Funcons-beta*](https://plancomps.github.io/CBS-beta/Funcons-beta/): an initial library of 'funcons' (fundamental programming constructs)
   - [*Languages-beta*](https://plancomps.github.io/CBS-beta/Languages-beta/): several illustrative languages specified by translation to funcons
 
-- **[Modularity'16](http://2016.modularity.info/)** **Demonstration Track paper**: *[Tool support for component-based semantics](http://www.plancomps.org/modularity2016)*, with [Thomas van Binsbergen](https://pure.royalholloway.ac.uk/portal/en/persons/thomas-van-binsbergen(bf15f269-6564-44e7-a089-3495c671caf6).html) and [Neil Sculthorpe](http://www.cs.rhul.ac.uk/home/ucac009/)
+- **[Modularity'16](http://2016.modularity.info/)** Demonstration Track paper: *[Tool support for component-based semantics](http://www.plancomps.org/modularity2016)*, with [Thomas van Binsbergen](https://pure.royalholloway.ac.uk/portal/en/persons/thomas-van-binsbergen(bf15f269-6564-44e7-a089-3495c671caf6).html) and [Neil Sculthorpe](http://www.cs.rhul.ac.uk/home/ucac009/)
 
 - **SIS – Semantics Implementation System** (1979): *[Reference Manual](http://cs.swansea.ac.uk/~cspdm/pub/DAIMI-MD-30.pdf)* (PDF), *[Tested Examples](http://cs.swansea.ac.uk/~cspdm/pub/DAIMI-MD-33.pdf)* (PDF), copied from the **[Semantics Library](http://homepages.cs.ncl.ac.uk/cliff.jones/semantics-library/)** of [Cliff B Jones](http://homepages.cs.ncl.ac.uk/cliff.jones/)
 
