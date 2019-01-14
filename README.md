@@ -52,6 +52,7 @@ Recent and forthcoming meetings in which I'm involved (in chronological order):
   (member since 1984)
 - **[WG 2.11](https://wiki.hh.se/wg211/):** IFIP Working Group on Program Generation  
   (member since 2013)
+- **[LinkedIn](https://www.linkedin.com/in/pdmosses/)**
 
 ## Resources
 
