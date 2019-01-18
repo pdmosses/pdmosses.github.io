@@ -31,7 +31,7 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
 
 ## Meetings
 
-Recent and forthcoming meetings in which I'm involved (in chronological order):
+Recent and forthcoming meetings in which I'm involved:
 
 - [BENEVOL 2018](http://se.ewi.tudelft.nl/benevol2018/): *The 17th Belgium-Netherlands Software Evolution Workshop*, Delft, The Netherlands, 10–11 December 2018
 - Seminar by [Mohammad Mousavi](https://www2.le.ac.uk/departments/informatics/people/mohammad-mousavi): *Conformance Testing as a Tool for Designing Connected Vehicle Functions*, Delft, The Netherlands, 13 December 2018 (visit host)
