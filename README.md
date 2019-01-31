@@ -61,6 +61,7 @@ Recent and forthcoming meetings in which I'm involved:
 - [GitHub](https://github.com): [Pages](https://pages.github.com), [Desktop](https://desktop.github.com) repository and website management
 - [Atom](https://atom.io) text editor
 - [Typora](https://typora.io) Markdown editor
+- [Overleaf](https://www.overleaf.com?r=fd800312&rm=d&rs=b) collaborative LaTeX editor
 - [Identify the Champion](http://www.iam.unibe.ch/~oscar/Champion/) organisational pattern language for programme committees
 - [Computer Science for Fun!](http://www.cs4fn.org/) magazine
 
