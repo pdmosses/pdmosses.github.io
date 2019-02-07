@@ -35,7 +35,7 @@ Recent and forthcoming meetings in which I'm involved:
 
 - [BENEVOL 2018](http://se.ewi.tudelft.nl/benevol2018/): *The 17th Belgium-Netherlands Software Evolution Workshop*, Delft, The Netherlands, 10–11 December 2018
 - Seminar by [Mohammad Mousavi](https://www2.le.ac.uk/departments/informatics/people/mohammad-mousavi): *Conformance Testing as a Tool for Designing Connected Vehicle Functions*, Delft, The Netherlands, 13 December 2018 (visit host)
-- [Lovelace lecture 2019](https://www.bcs.org/content/ConWebDoc/60513) by [Gordon Plotkin](https://en.wikipedia.org/wiki/Gordon_Plotkin): *Languages for learning*, London, UK, 4 March 2019
+- [Lovelace lecture 2019](https://www.bcs.org/content/ConWebDoc/60513) by [Gordon Plotkin](https://en.wikipedia.org/wiki/Gordon_Plotkin): *Languages for learning*, London, UK, 4 March 2019
 - [LangDev'19](http://langdevcon.org/): *an informal meeting on language development using language workbenches*, Amsterdam, The Netherlands, 21–22 March 2019
 - [FSEN 2019](http://fsen.ir/2019/): *8th IPM International Conference on Fundamentals of Software Engineering*, Tehran, Iran, 1–3 May 2019 (PC member)
 - [SBLP 2019](http://cbsoft2019.ufba.br/sblp.html): *XXIII Brazilian Symposium on Programming Languages*, Universidade Federal da Bahia – UFBA, Salvador, Brazil, 23–27 September 2019 (PC member)
