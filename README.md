@@ -4,7 +4,7 @@
 >
 > [Professor Emeritus](http://www.swansea.ac.uk/staff/science/computer-science/p.d.mosses/), [Computer Science](http://www.swansea.ac.uk/compsci/), [Swansea University](http://www.swansea.ac.uk/), UK
 >
-> [Visitor](https://www.tudelft.nl/en/staff/p.d.mosses/), [Programming Languages Group](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/programming-languages/), [Software Technology](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/), [TU Delft](https://www.tudelft.nl/en/), The Netherlands
+> [Visitor](https://www.tudelft.nl/en/staff/p.d.mosses/), [Programming Languages Group](https://pl.ewi.tudelft.nl), [Software Technology](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/), [TU Delft](https://www.tudelft.nl/en/), The Netherlands
 
 The focus of my current research is further development of the component-based approach to semantics of programming languages, established by the **[PLanCompS](http://www.plancomps.org/)** project, together with tool support and major case studies.
 
@@ -21,7 +21,7 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
   - [*Funcons-beta*](https://plancomps.github.io/CBS-beta/Funcons-beta/): an initial library of 'funcons' (fundamental programming constructs)
   - [*Languages-beta*](https://plancomps.github.io/CBS-beta/Languages-beta/): several illustrative languages specified by translation to funcons
 
-- **Executable component-based semantics,** with [Thomas van Binsbergen](https://pure.royalholloway.ac.uk/portal/en/persons/thomas-van-binsbergen(bf15f269-6564-44e7-a089-3495c671caf6).html) and [Neil Sculthorpe](http://neilsculthorpe.com): *[JLAMP](https://authors.elsevier.com/a/1YMIL8MrKMJj-u)* (2019; *free access* until 24 February), *[preprint](papers/Binsbergen2019ECBS/preprint.pdf)* (PDF)
+- **Executable component-based semantics,** with [Thomas van Binsbergen](https://pure.royalholloway.ac.uk/portal/en/persons/thomas-van-binsbergen(bf15f269-6564-44e7-a089-3495c671caf6).html) and [Neil Sculthorpe](http://neilsculthorpe.com): *[JLAMP](https://doi.org/10.1016/j.jlamp.2018.12.004)* (2019), *[preprint](papers/Binsbergen2019ECBS/preprint.pdf)* (PDF)
 
 - **SIS – Semantics Implementation System** (1979): *[Reference Manual](http://cs.swansea.ac.uk/~cspdm/pub/DAIMI-MD-30.pdf)* (PDF), *[Tested Examples](http://cs.swansea.ac.uk/~cspdm/pub/DAIMI-MD-33.pdf)* (PDF), copied from the *[Semantics Library](http://homepages.cs.ncl.ac.uk/cliff.jones/semantics-library/)* of [Cliff B Jones](http://homepages.cs.ncl.ac.uk/cliff.jones/)
 
@@ -33,8 +33,6 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
 
 Recent and forthcoming meetings in which I'm involved:
 
-- [BENEVOL 2018](http://se.ewi.tudelft.nl/benevol2018/): *The 17th Belgium-Netherlands Software Evolution Workshop*, Delft, The Netherlands, 10–11 December 2018
-- Seminar by [Mohammad Mousavi](https://www2.le.ac.uk/departments/informatics/people/mohammad-mousavi): *Conformance Testing as a Tool for Designing Connected Vehicle Functions*, Delft, The Netherlands, 13 December 2018 (visit host)
 - [Lovelace lecture 2019](https://www.bcs.org/content/ConWebDoc/60513) by [Gordon Plotkin](https://en.wikipedia.org/wiki/Gordon_Plotkin): *Languages for learning*, London, UK, 4 March 2019
 - [LangDev'19](http://langdevcon.org/): *an informal meeting on language development using language workbenches*, Amsterdam, The Netherlands, 21–22 March 2019
 - [FSEN 2019](http://fsen.ir/2019/): *8th IPM International Conference on Fundamentals of Software Engineering*, Tehran, Iran, 1–3 May 2019 (PC member)
@@ -45,7 +43,7 @@ Recent and forthcoming meetings in which I'm involved:
 
 - **[Swansea University](http://www.swansea.ac.uk/):** Department of [Computer Science](http://www.swansea.ac.uk/compsci/)  
   (professor 2005–2015, emeritus since 2016)
-- **[TU Delft](https://www.tudelft.nl/en/):** Research group on [Programming Languages](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/programming-languages/)  
+- **[TU Delft](https://www.tudelft.nl/en/):** Research group on [Programming Languages](https://pl.ewi.tudelft.nl)  
   (visitor since 2016)
 - **[WG 1.3](http://ifipwg13.informatik.uni-bremen.de/):** IFIP Working Group on Foundations of System Speciﬁcation  
   (member 1994–2015, chair 1998–2003, emeritus member since 2015)
