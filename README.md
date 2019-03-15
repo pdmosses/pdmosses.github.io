@@ -36,7 +36,7 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
 Recent and forthcoming meetings in which I'm involved:
 
 - [Lovelace lecture 2019](https://www.bcs.org/content/ConWebDoc/60513) by [Gordon Plotkin](https://en.wikipedia.org/wiki/Gordon_Plotkin): *Languages for learning*, London, UK, 4 March 2019
-- [LangDev'19](http://langdevcon.org/): *an informal meeting on language development using language workbenches*, Amsterdam, The Netherlands, 21–22 March 2019 (presentation: *Reuse and co-evolution in CBS language specifications*)
+- [LangDev'19](http://langdevcon.org/): *an informal meeting on language development using language workbenches*, Amsterdam, The Netherlands, 21–22 March 2019 (presentation: *Reuse and co-evolution in CBS language specifications*)
 - [FSEN 2019](http://fsen.ir/2019/): *8th IPM International Conference on Fundamentals of Software Engineering*, Tehran, Iran, 1–3 May 2019 (PC member)
 - [PSI'19](http://psi.nsc.ru): *12th A.P. Ershov Informatics Conference*, Akademgorodok, Novosibirsk, Russia, 2–5 July 2019  (PC member)
 - [SBLP 2019](http://cbsoft2019.ufba.br/sblp.html): *XXIII Brazilian Symposium on Programming Languages*, Universidade Federal da Bahia – UFBA, Salvador, Brazil, 23–27 September 2019 (PC member)
