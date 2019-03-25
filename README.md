@@ -29,7 +29,7 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
 
 - **Festschrift:** [*Semantics and Algebraic Specification*](http://www.springer.com/computer/foundations/book/978-3-642-04163-1), edited by [Jens Palsberg](http://www.cs.ucla.edu/~palsberg/), with contributions by many international colleagues and former students, published by Springer as  [LNCS 5700](http://www.springer.com/computer/foundations/book/978-3-642-04163-1):
 
-  > [![img](https://cs.swansea.ac.uk/~cspdm/images/cda_displayimage.jpg)](http://www.springer.com/computer/foundations/book/978-3-642-04163-1) 
+  > [![img](images/festschrift-cover.jpg)](http://www.springer.com/computer/foundations/book/978-3-642-04163-1) 
 
 ## Meetings
 
