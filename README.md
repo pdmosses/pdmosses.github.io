@@ -61,7 +61,7 @@ Recent and forthcoming meetings in which I'm involved:
 
 ## Resources
 
-- [Spoofax](http://www.metaborg.org/en/latest/) language workbench
+- [Spoofax](https://www.metaborg.org/en/latest/) language workbench
 - [GitHub](https://github.com): [Pages](https://pages.github.com), [Desktop](https://desktop.github.com) repository and website management
 - [Atom](https://atom.io) text editor
 - [Typora](https://typora.io) Markdown editor
