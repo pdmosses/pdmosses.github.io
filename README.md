@@ -18,8 +18,8 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
 
 - **[CBS](https://plancomps.github.io/CBS-beta/)**: a framework for component-based specification of programming languages (beta-release)
 
-  - [*Funcons-beta*](https://plancomps.github.io/CBS-beta/Funcons-beta/): an initial library of 'funcons' (fundamental programming constructs)
-  - [*Languages-beta*](https://plancomps.github.io/CBS-beta/Languages-beta/): several illustrative languages specified by translation to funcons
+  - [*Funcons-beta*](https://plancomps.github.io/CBS-beta/docs/Funcons-beta): an initial library of 'funcons' (fundamental programming constructs)
+  - [*Languages-beta*](https://plancomps.github.io/CBS-beta/docs/Languages-beta): several illustrative languages specified by translation to funcons
 
 - **Software meta-language engineering and CBS:** *[Journal of Computer Languages](https://doi.org/10.1016/j.jvlc.2018.11.003)* (2019)
 
@@ -29,7 +29,7 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
 
 - **Festschrift:** [*Semantics and Algebraic Specification*](http://www.springer.com/computer/foundations/book/978-3-642-04163-1), edited by [Jens Palsberg](http://www.cs.ucla.edu/~palsberg/), with contributions by many international colleagues and former students, published by Springer as  [LNCS 5700](http://www.springer.com/computer/foundations/book/978-3-642-04163-1):
 
-  > [![img](images/festschrift-cover.jpg)](http://www.springer.com/computer/foundations/book/978-3-642-04163-1) 
+  > [![img](images/festschrift-cover.jpg)](http://www.springer.com/computer/foundations/book/978-3-642-04163-1)
 
 ## Meetings
 
