@@ -6,7 +6,7 @@
 >
 > [Visitor](https://www.tudelft.nl/en/staff/p.d.mosses/), [Programming Languages Group](https://pl.ewi.tudelft.nl), [Software Technology](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/), [TU Delft](https://www.tudelft.nl/en/), The Netherlands
 
-The focus of my current research is further development of the component-based approach to semantics of programming languages, established by the **[PLanCompS](http://www.plancomps.org/)** project, together with tool support and major case studies.
+The focus of my current research is further development of the component-based approach to semantics of programming languages, established by the **[PLanCompS](http://plancomps.org)** project, together with tool support and major case studies.
 
 My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea University is no longer updated, and will be removed. All items of potential current interest have been copied to this new home page; most of the other items have been copied to the [archives](archives.md) page.
 
@@ -39,7 +39,7 @@ Recent and forthcoming meetings in which I'm involved:
 - [LangDev'19](http://langdevcon.org/): *an informal meeting on language development using language workbenches*, Amsterdam, The Netherlands, 21–22 March 2019 (presentation: *Reuse and co-evolution in CBS language specifications*, slides [PDF](https://pdmosses.github.io/meetings/LangDev-2019/LangDev-2019-slides.pdf))
 - [FSEN 2019](http://fsen.ir/2019/): *8th IPM International Conference on Fundamentals of Software Engineering*, Tehran, Iran, 1–3 May 2019 (PC member)
 - [PSI'19](http://psi.nsc.ru): *12th A.P. Ershov Informatics Conference*, Akademgorodok, Novosibirsk, Russia, 2–5 July 2019  (PC member)
-- [SBLP 2019](http://cbsoft2019.ufba.br/sblp.html): *XXIII Brazilian Symposium on Programming Languages*, Universidade Federal da Bahia – UFBA, Salvador, Brazil, 23–27 September 2019 (PC member)
+- [SBLP 2019](https://cbsoft2019.ufba.br/#/sblp): *XXIII Brazilian Symposium on Programming Languages*, Universidade Federal da Bahia – UFBA, Salvador, Brazil, 23–27 September 2019 (PC member)
 - [HFM 2019](https://sites.google.com/view/hfm2019/): *History of Formal Methods Workshop*, Porto, Portugal, 11 October 2019 (PC member)
 - [GPCE 2019](https://conf.researchr.org/home/gpce-2019): *18th International Conference on Generative Programming: Concepts & Experiences*, Athens, Greece, 21–22 October 2019 (PC member)
 
