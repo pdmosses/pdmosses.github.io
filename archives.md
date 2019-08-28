@@ -16,7 +16,7 @@ This page is an archive of items that are unlikely to be of interest (other than
 - **[SCP](https://www.journals.elsevier.com/science-of-computer-programming):** *Science of Computer Programming* journal  
   (editorial board member 2010–2015)
 - **[UKCRC](http://www.ukcrc.org.uk/):** an expert panel for computing research  
-  (member 2007–2015) 
+  (member 2007–2015)
 - **[Theory Group, Swansea](https://www.swansea.ac.uk/compsci/research-and-impact/theoretical-computer-science/):** university research group  
   (member 2005–2015)
 - **[Computer Science, Swansea](https://www.swansea.ac.uk/compsci/):** university department  
@@ -54,11 +54,11 @@ Many of the topics mentioned below are involved in [PLanCompS](http://www.planco
 
 ### Semantics of Programming Languages
 
-A formal semantics of a programming language deﬁnes the computational behaviour of all programs in the language, just as a formal grammar deﬁnes their syntax. 
+A formal semantics of a programming language deﬁnes the computational behaviour of all programs in the language, just as a formal grammar deﬁnes their syntax.
 
 The main aim of my research in the area of semantics is practical applicability, and I have focussed on improving the modularity of semantic specifications. My most recent work on component-based semantics proposes an incremental approach to the development of semantic specifications, with a high degree of reusability. I'm also developing a component-based approach to proving algebraic properties of programming constructs.
 
-A further aim is to provide an online repository of reusable independent specifications of basic programming constructs. I also intend to develop a digital library of formal specifications of programming languages. 
+A further aim is to provide an online repository of reusable independent specifications of basic programming constructs. I also intend to develop a digital library of formal specifications of programming languages.
 
 **Overviews:**
 
@@ -74,7 +74,7 @@ A further aim is to provide an online repository of reusable independent specifi
 
 **Action Semantics:**
 
-> Action Semantics is a modular hybrid of denotational and operational semantics, developed since 1985, together with [David Watt](http://www.dcs.gla.ac.uk/~daw/) (Glasgow). 
+> Action Semantics is a modular hybrid of denotational and operational semantics, developed since 1985, together with [David Watt](http://www.dcs.gla.ac.uk/~daw/) (Glasgow).
 >
 > A variant of Action Semantics has been exploited by the Object Management Group in connection with the Model Driven Architecture (MDA) technology and the Uniﬁed Modelling Language (UML).
 
@@ -108,15 +108,15 @@ Tools are needed to support the development, validation, and use of semantic des
 
 **SIS:**
 
-> SIS was the ﬁrst semantics implementation system for running programs according to their denotational semantics, developed 1975–79. It was written in BCPL, and ported to several operating systems. 
+> SIS was the ﬁrst semantics implementation system for running programs according to their denotational semantics, developed 1975–79. It was written in BCPL, and ported to several operating systems.
 
-### Algebraic Speciﬁcation Frameworks 
+### Algebraic Speciﬁcation Frameworks
 
 This area concerns the formal speciﬁcation of requirements and design for software. My contributions here have focussed mainly on frameworks that support algebraic (axiomatic) speciﬁcations of data, functions, and processes.
 
 **CASL:**
 
-> CASL, The Common Algebraic Speciﬁcation Language, was developed by CoFI (the Common Framework Initiative for algebraic speciﬁcation and development of software). I was the overall coordinator of CoFI 1995-98, coauthor of the CASL User Manual with Michel Bidoit, and editor of the CASL Reference Manual. 
+> CASL, The Common Algebraic Speciﬁcation Language, was developed by CoFI (the Common Framework Initiative for algebraic speciﬁcation and development of software). I was the overall coordinator of CoFI 1995-98, coauthor of the CASL User Manual with Michel Bidoit, and editor of the CASL Reference Manual.
 
 **Algebraic Higher-Order Set Theory:**
 
@@ -147,10 +147,17 @@ This area concerns the formal speciﬁcation of requirements and design for soft
 
 ### Other
 
-- Christopher Mosses (my son) runs a software development company called [Manao Software](http://www.manaosoftware.com/) in Thailand, and a company called [Software Consult](http://www.softwareconsult.dk/) in Denmark 
+- Christopher Mosses (my son) runs a software development company called [Manao Software](http://www.manaosoftware.com/) in Thailand, and a company called [Software Consult](http://www.softwareconsult.dk/) in Denmark
 - [EasyChair](http://www.easychair.org/): Conference system
 
 ## Previous meetings
+
+#### 2019
+
+- [PSI'19](http://psi.nsc.ru): *12th A.P. Ershov Informatics Conference*, Akademgorodok, Novosibirsk, Russia, 2–5 July 2019  (PC member)
+- [FSEN 2019](http://fsen.ir/2019/): *8th IPM International Conference on Fundamentals of Software Engineering*, Tehran, Iran, 1–3 May 2019 (PC member)
+- [LangDev'19](http://langdevcon.org/): *an informal meeting on language development using language workbenches*, Amsterdam, The Netherlands, 21–22 March 2019 (presentation: *Reuse and co-evolution in CBS language specifications*, slides [PDF](https://pdmosses.github.io/meetings/LangDev-2019/LangDev-2019-slides.pdf))
+- [Lovelace lecture 2019](https://www.bcs.org/content/ConWebDoc/60513) by [Gordon Plotkin](https://en.wikipedia.org/wiki/Gordon_Plotkin): *Languages for learning*, London, UK, 4 March 2019
 
 #### 2018
 
@@ -203,7 +210,7 @@ This area concerns the formal speciﬁcation of requirements and design for soft
 - [Peter Landin Semantics Seminar 2014](http://www.bcs.org/content/ConWebDoc/53099): *On correspondences between programming languages and semantic notations*, [BCS-FACS](http://www.bcs.org/category/12459), London, UK, 8 December 2014 (presentation)
 - Doctoral defence of *Arjan P. van der Meer*, Eindhoven University of Technology, The Netherlands, 10 November 2014 (committee member)
 - [NWPT 2014](http://ceres.hh.se/mediawiki/index.php/NWPT_2014): *26th Nordic Workshop on Programming Theory*, 29-31 October 2014, Halmstad University, Sweden (abstract: *Divergence as state in co-inductive big-step semantics*, with [Casper Bach Poulsen](http://www.swansea.ac.uk/compsci/people/homepage.php?staff=C.Bach.Poulsen))
-- Seminar: [*A component-based approach to programming language semantics*](http://www.ncl.ac.uk/computing/about/events/seminars/item/a-component-based-approach-to-programming-language-semantics), Newcastle, UK, 28 October 2014 
+- Seminar: [*A component-based approach to programming language semantics*](http://www.ncl.ac.uk/computing/about/events/seminars/item/a-component-based-approach-to-programming-language-semantics), Newcastle, UK, 28 October 2014
 - Doctoral defence of *Ken Madlener*, Radboud University, Nijmegen, The Netherlands, 9 October 2014 (committee member)
 - [SBLP 2014](http://www.ic.ufal.br/evento/cbsoft2014/): *XVIII Brazilian Symposium on Programming Languages*, Maceio, Brazil, approx 28 September–3 October 2014 (PC member)
 - [IFIP WG 2.2](http://wg22.labri.fr/): *Working Group Meeting on Formal Description of Programming Concepts*, Munich, Germany, 15–18 September 2014 (member)
@@ -236,12 +243,12 @@ This area concerns the formal speciﬁcation of requirements and design for soft
 - Doctoral defence of [*Luc Engelen*](http://www.win.tue.nl/~lengelen/), Eindhoven University of Technology, The Netherlands, 11 Dec 2012 (committee member)
 - [SLE 2012](http://planet-sl.org/sle2012/): *5th International Conference on Software Language Engineering*, Dresden, Germany, 25–28 Sep 2012 (PC member)
 - [IFIP WG 2.2](http://www.cs.unibo.it/wg22/): *Working Group Meeting on Formal Description of Programming Concepts*, Amsterdam, The Netherlands, 24–26 September 2012 (member, presentation)
-- [SBLP 2012](http://www.cbsoft.dimap.ufrn.br/sblp_apresentacao.php?lang=en): *XVI Brazilian Symposium on Programming Languages*, São Paulo, Brazil, 23–28 Sep 2012 (PC member) 
+- [SBLP 2012](http://www.cbsoft.dimap.ufrn.br/sblp_apresentacao.php?lang=en): *XVI Brazilian Symposium on Programming Languages*, São Paulo, Brazil, 23–28 Sep 2012 (PC member)
 - [SSLF12](https://fmse.info.uaic.ro/events/SSLF12/): *Summer School on Language Frameworks*, Sinaia, Romania, 23–31 Jul 2012 ([PLanCompS](http://www.plancomps.org/) presentation)
 - [IFIP WG 2.11](https://wiki.hh.se/wg211/index.php/WG211/M11Schedule): *Working Group Meeting on Program Generation*, Halmstad, Sweden, 25–27 Jun 2012 (observer, presentation)
 - Eindhoven University of Technology, The Netherlands, 15 Jun 2012 ([PLanCompS](http://www.plancomps.org/)collaboration)
 - *CWI Lectures on Understanding Software*, CWI, Amsterdam, The Netherlands, 14 Jun 2012
-- [MFPS 2012](http://dauns.math.tulane.edu/~mfps/MFPS28/MFPS28/MFPS_XXVIII.html): *28th Conference on the Mathematical Foundations of Programming Semantics,* University of Bath, UK, 6–9 Jun 2012 
+- [MFPS 2012](http://dauns.math.tulane.edu/~mfps/MFPS28/MFPS28/MFPS_XXVIII.html): *28th Conference on the Mathematical Foundations of Programming Semantics,* University of Bath, UK, 6–9 Jun 2012
 - *14th Wessex Theory Seminar*, University of Bath, UK, 23 May 2012
 - [PLanCompS](http://www.plancomps.org/): *Project Meeting*, Royal Holloway, UK, 19–20 Apr 2012
 - [*Robin Milner Sympoisum*](http://homepages.inf.ed.ac.uk/stg/Milner2012), Edinburgh, UK, 15–18 Apr 2012
@@ -255,7 +262,7 @@ This area concerns the formal speciﬁcation of requirements and design for soft
 - PEM seminar, [*Software Analysis and Transformation*](http://www.cwi.nl/research-groups/Software-Analysis-and-Transformation), CWI, Amsterdam, The Netherlands, 14 Dec 2011 ([PLanCompS](http://www.plancomps.org/) presentation)
 - Doctoral defence of [*Lennart Kats*](http://www.lclnet.nl/), Delft University of Technology, The Netherlands, 13 Dec 2011 (committee member)
 - [*Symposium on Software Language Design and Engineering*](http://swerl.tudelft.nl/bin/view/Main/SLDE2011), Delft University of Technology, The Netherlands, 13 Dec 2011 ([PLanCompS](http://www.plancomps.org/) presentation)
-- [SBLP 2011](http://www.each.usp.br/cbsoft2011/ingles/sblp/sblp_en.html): *XV Brazilian Symposium on Programming Languages*, São Paulo, Brazil, 26–30 September 2011 (PC member) 
+- [SBLP 2011](http://www.each.usp.br/cbsoft2011/ingles/sblp/sblp_en.html): *XV Brazilian Symposium on Programming Languages*, São Paulo, Brazil, 26–30 September 2011 (PC member)
 - [IFIP WG 2.2](http://www.cs.unibo.it/wg22/): *Working Group Meeting on Formal Description of Programming Concepts*, Paris, France, 21–23 September 2011 (member)
 - [PLanCompS](http://www.plancomps.org/): *Project Kick-Off Meeting*, Swansea, UK, 16–18 September 2011
 - [DSL 2011](https://dsl2011.bordeaux.inria.fr/): *Conference on Domain-Specific Languages*, Bordeaux, France, 6–8 September 2011
@@ -271,17 +278,17 @@ This area concerns the formal speciﬁcation of requirements and design for soft
 
 - *Peter Landin Annual Semantics Seminar*, London, UK, 6 December 2010
 - [*Mathematical Foundations Seminar*](http://www.bath.ac.uk/comp-sci/research/seminars/mathfound_series.php), University of Bath, UK, 25 November 2010 (presentation: [*Fundamental Programming Constructs (Funcons)*](http://www.bath.ac.uk/comp-sci/research/seminars/view_seminar.php?ID=326))
-- [9th Wessex Theory Seminar](http://wiki.bath.ac.uk/display/wessex/9th+Wessex+Theory+Seminar), Imperial College London, UK, 4 November 2010 (presentation:[ *On Bisimulation and Modularity*](http://wiki.bath.ac.uk/display/wessex/9th+Wessex+Theory+Seminar#9thWessexTheorySeminar-peter)) 
+- [9th Wessex Theory Seminar](http://wiki.bath.ac.uk/display/wessex/9th+Wessex+Theory+Seminar), Imperial College London, UK, 4 November 2010 (presentation:[ *On Bisimulation and Modularity*](http://wiki.bath.ac.uk/display/wessex/9th+Wessex+Theory+Seminar#9thWessexTheorySeminar-peter))
 - *Computer Science Seminar*, University of Leicester, UK, 15 October 2010 (presentation:*Modular Specification of Programming Languages: Advances and Challenges*)
 - [SLE 2010](http://planet-sl.org/sle2010/): *3rd International Conference on Software Language Engineering*, Eindhoven, The Netherlands, 12–13 October 2010 (PC member)
 - [GPCE'10](http://program-transformation.org/GPCE10/WebHome): *9th International Conference on Generative Programming and Component Engineering*, Eindhoven, The Netherlands, 10–12 October 2010
-- [SBLP 2010](http://wiki.dcc.ufba.br/CBSOFT/SBLP2010): *XIV Brazilian Symposium on Programming Languages*, Salvador da Bahia, Brazil, 27 September – 1 October 2010 (PC member) 
+- [SBLP 2010](http://wiki.dcc.ufba.br/CBSOFT/SBLP2010): *XIV Brazilian Symposium on Programming Languages*, Salvador da Bahia, Brazil, 27 September – 1 October 2010 (PC member)
 - [CBSoft 2010](http://wiki.dcc.ufba.br/CBSOFT/): *Brazilian Conference on Software: Theory and Practice*, Salvador da Bahia, Brazil, 27 September – 1 October 2010 (Tutorials PC member)
 - [IFIP WG 2.2](http://www.cs.unibo.it/wg22/): *Working Group Meeting on Formal Description of Programming Concepts*, Warsaw, Poland, 20–22 September 2010 (member)
 - [EXPRESS'10](http://csd.informatik.uni-oldenburg.de/~sib/EXPRESS10/): *17th International Workshop on Expressiveness in Concurrency*, Paris, France, 30 August 2010 (paper: *Robustness of Equations Under Operational Extensions*)
-- [8th Wessex Theory Seminar](http://wiki.bath.ac.uk/display/wessex/8th+Wessex+Theory+Seminar), Bath, UK, 13 July 2010 
+- [8th Wessex Theory Seminar](http://wiki.bath.ac.uk/display/wessex/8th+Wessex+Theory+Seminar), Bath, UK, 13 July 2010
 - [IFIP WG 1.3](http://homepage.mac.com/fiadeiroj/jose/IFIP-WG1.3/): *Working Group Meeting on Foundations of System Specification*, Bremen, Germany, 4–6 July 2010 (member)
-- [AMAST 2010](http://mpc-amast2010.fsg.ulaval.ca/amast/): *13th International Conference on Algebraic Methodology and Software Technology*, Québec, Canada, 23–26 June 2010 (PC member) 
+- [AMAST 2010](http://mpc-amast2010.fsg.ulaval.ca/amast/): *13th International Conference on Algebraic Methodology and Software Technology*, Québec, Canada, 23–26 June 2010 (PC member)
 - [ACM-BCS Visions 2010](http://www.bcs.org/server.php?show=nav.11980): *International Conference*, *CPHC Conference*, and *UKCRC Grand Challenges*, Edinburgh, UK, 13–26 April 2010
 - [LDTA 2010](http://ldta.info/): *10th Workshop on Language Descriptions, Tools and Applications,* Paphos, Cyprus, 27–28 March 2010 (PC member)
 
@@ -290,7 +297,7 @@ This area concerns the formal speciﬁcation of requirements and design for soft
 - Seminar on *Component-Based Semantics*, Instituto de Computação, Universidade Federal Fluminense, Brazil, 10 December 2009
 - [ICFEM 2009](http://icfem09.inf.puc-rio.br/ICFEM.html): *11th International Conference on Formal Engineering Methods*, Rio de Janeiro, Brazil, 8–11 December 2009 (session chair)
 - [FM+AM'09](http://polelo.cs.up.ac.za/fm_am/): *Intl. Workshop on Formal Methods and Agile Methods,* Rio de Janeiro, Brazil, 8 December 2009 (paper: *An Agile Approach to Language Modelling and Development*)
-- [Symposium](http://www.cs.au.dk/~danvy/mn/) for *Mogens Nielsen*'s 60th Birthday, Aarhus, Denmark, 3–4 October 2009 (invited talk: On Bisimulation and Modularity) 
+- [Symposium](http://www.cs.au.dk/~danvy/mn/) for *Mogens Nielsen*'s 60th Birthday, Aarhus, Denmark, 3–4 October 2009 (invited talk: On Bisimulation and Modularity)
 - [IFIP WG 1.3 Meeting](http://www.fiadeiro.org/jose/IFIP-WG1.3/), Udine, Italy, 11–12 September 2009
 - [Symposium](http://calco09.dimi.uniud.it/symposium.html), Udine, Italy, 10 September 2009 (Festschrift: *Semantics and Algebraic Specification,* edited by *Jens Palsberg*)
 - [CALCO 2009](http://calco09.dimi.uniud.it/): *3rd Conference on Algebra and Coalgebra in Computer Science*, Udine, Italy, 6–10 September 2009 (SC member)
@@ -342,5 +349,4 @@ This area concerns the formal speciﬁcation of requirements and design for soft
 - [CALCO 2005](http://cs.swansea.ac.uk/calco/): *First Conference on Algebra and Coalgebra in Computer Science*, Swansea, 3–6 September 2005 (SC and PC member)
 - [CALCO-jnr 2005](http://cs.swansea.ac.uk/calco-jnr/): *CALCO Young Researchers Workshop*, Swansea, 2 September 2005 (organizing committee member)
 
-## 
-
+##
