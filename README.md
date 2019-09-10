@@ -23,7 +23,7 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
 
 - **Software meta-language engineering and CBS:** *[Journal of Computer Languages](https://doi.org/10.1016/j.jvlc.2018.11.003)* (2019)
 
-- **Executable component-based semantics,** with [Thomas van Binsbergen](https://pure.royalholloway.ac.uk/portal/en/persons/thomas-van-binsbergen(bf15f269-6564-44e7-a089-3495c671caf6).html) and [Neil Sculthorpe](http://neilsculthorpe.com): *[JLAMP](https://doi.org/10.1016/j.jlamp.2018.12.004)* (2019), *[preprint](papers/Binsbergen2019ECBS/preprint.pdf)* (PDF)
+- **Executable component-based semantics,** with [Thomas van Binsbergen](https://pure.royalholloway.ac.uk/portal/en/persons/thomas-van-binsbergen(bf15f269-6564-44e7-a089-3495c671caf6).html) and [Neil Sculthorpe](http://neilsculthorpe.com): *[JLAMP](https://doi.org/10.1016/j.jlamp.2018.12.004)* (2019), *[preprint](papers/Binsbergen2019ECBS)*
 
 - **SIS – Semantics Implementation System** (1979): *[Reference Manual](http://cs.swansea.ac.uk/~cspdm/pub/DAIMI-MD-30.pdf)* (PDF), *[Tested Examples](http://cs.swansea.ac.uk/~cspdm/pub/DAIMI-MD-33.pdf)* (PDF), copied from the *[Semantics Library](http://homepages.cs.ncl.ac.uk/cliff.jones/semantics-library/)* of [Cliff B Jones](http://homepages.cs.ncl.ac.uk/cliff.jones/)
 
@@ -36,7 +36,7 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
 Recent and forthcoming meetings in which I'm involved:
 
 - [SBLP 2019](https://cbsoft2019.ufba.br/#/sblp): *XXIII Brazilian Symposium on Programming Languages*, Universidade Federal da Bahia – UFBA, Salvador, Brazil, 23–27 September 2019 (PC member)
-- [F-IDE 2019](https://sites.google.com/view/fideworkshop2019/): *5th Workshop on Formal Integrated Development Environments*, Porto, Portugal, 7 October 2019 (presentation: *A component-based formal language workbench*)
+- [F-IDE 2019](https://sites.google.com/view/fideworkshop2019/): *5th Workshop on Formal Integrated Development Environments*, Porto, Portugal, 7 October 2019 (presentation: *A component-based formal language workbench*)
 - [HFM 2019](https://sites.google.com/view/hfm2019/): *History of Formal Methods Workshop*, Porto, Portugal, 11 October 2019 (PC member)
 - [GPCE 2019](https://conf.researchr.org/home/gpce-2019): *18th International Conference on Generative Programming: Concepts & Experiences*, Athens, Greece, 21–22 October 2019 (PC member)
 
