@@ -35,11 +35,20 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
 
 Recent and forthcoming meetings in which I'm involved:
 
-- [SBLP 2019](https://cbsoft2019.ufba.br/#/sblp): *XXIII Brazilian Symposium on Programming Languages*, Universidade Federal da Bahia – UFBA, Salvador, Brazil, 23–27 September 2019 (PC member)
-- [F-IDE 2019](https://sites.google.com/view/fideworkshop2019/): *5th Workshop on Formal Integrated Development Environments*, Porto, Portugal, 7 October 2019 (presentation: *A component-based formal language workbench*)
-- [HFM 2019](https://sites.google.com/view/hfm2019/): *History of Formal Methods Workshop*, Porto, Portugal, 11 October 2019 (PC member)
-- [GPCE 2019](https://conf.researchr.org/home/gpce-2019): *18th International Conference on Generative Programming: Concepts & Experiences*, Athens, Greece, 21–22 October 2019 (PC member)
-
+- [SBLP 2019](https://cbsoft2019.ufba.br/#/sblp):
+  *XXIII Brazilian Symposium on Programming Languages*,
+  Universidade Federal da Bahia – UFBA, Salvador, Brazil, 23–27 September 2019
+  (PC member)
+- [F-IDE 2019](https://sites.google.com/view/fideworkshop2019/):
+  *5th Workshop on Formal Integrated Development Environments*, Porto, Portugal, 7 October 2019 
+  (presentation: *A component-based formal language workbench*, 
+  [preprint](https://easychair.org/publications/preprint/qJsd))
+- [HFM 2019](https://sites.google.com/view/hfm2019/):
+  *History of Formal Methods Workshop*, Porto, Portugal, 11 October 2019
+  (PC member)
+- [GPCE 2019](https://conf.researchr.org/home/gpce-2019):
+  *18th International Conference on Generative Programming: Concepts & Experiences*, Athens, Greece, 21–22 October 2019
+  (PC member)
 
 ## Current affiliations
 
@@ -61,7 +70,7 @@ Recent and forthcoming meetings in which I'm involved:
 - [Spoofax](https://www.metaborg.org/en/latest/) language workbench
 - [GitHub](https://github.com): [Pages](https://pages.github.com), [Desktop](https://desktop.github.com) repository and website management
 - [Atom](https://atom.io) text editor
-- [Typora](https://typora.io) Markdown editor
+- [Typora](https://typora.io) *Markdown* editor
 - [Overleaf](https://www.overleaf.com?r=fd800312&rm=d&rs=b) collaborative *LaTeX* editor
 - [Identify the Champion](http://www.iam.unibe.ch/~oscar/Champion/) organisational pattern language for programme committees
 - [Computer Science for Fun!](http://www.cs4fn.org/) magazine
@@ -70,4 +79,4 @@ Recent and forthcoming meetings in which I'm involved:
 
 - [Mac OS](https://www.apple.com/macos/) operating system
 - [MacPorts](https://www.macports.org) package manager
-- [MacTeX](http://www.tug.org/mactex/) TeXLive distribution
+- [MacTeX](http://www.tug.org/mactex/) *TeXLive* distribution
