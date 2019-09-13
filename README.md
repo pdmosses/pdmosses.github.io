@@ -23,7 +23,11 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
 
 - **Software meta-language engineering and CBS:** *[Journal of Computer Languages](https://doi.org/10.1016/j.jvlc.2018.11.003)* (2019)
 
-- **Executable component-based semantics,** with [Thomas van Binsbergen](https://pure.royalholloway.ac.uk/portal/en/persons/thomas-van-binsbergen(bf15f269-6564-44e7-a089-3495c671caf6).html) and [Neil Sculthorpe](http://neilsculthorpe.com): *[JLAMP](https://doi.org/10.1016/j.jlamp.2018.12.004)* (2019), *[preprint](papers/Binsbergen2019ECBS)*
+- **Executable component-based semantics,** with [L. Thomas van Binsbergen](https://www.cwi.nl/people/thomas-van-binsbergen) and [Neil Sculthorpe](http://neilsculthorpe.com): *[JLAMP](https://doi.org/10.1016/j.jlamp.2018.12.004)* (2019), *[preprint](papers/Binsbergen2019ECBS)*
+
+- **MSOS in Prolog** (2004) on [GitHub Pages](https://pdmosses.github.io/msos-in-prolog): *Prolog* rules corresponding to the *MSOS* rules in my [JLAP 2004](papers/Mosses2004MSOS) paper
+
+- **Prolog MSDF Tools** (2004) on [GitHub Pages](https://pdmosses.github.io/prolog-msdf-tools): Generation of *Prolog* interpreters from *MSDF* (a meta-language for specifying *MSOS* of programming languages), including [lecture notes](https://github.com/pdmosses/prolog-msdf-tools/blob/master/Notes.pdf)
 
 - **SIS – Semantics Implementation System** (1979): *[Reference Manual](http://cs.swansea.ac.uk/~cspdm/pub/DAIMI-MD-30.pdf)* (PDF), *[Tested Examples](http://cs.swansea.ac.uk/~cspdm/pub/DAIMI-MD-33.pdf)* (PDF), copied from the *[Semantics Library](http://homepages.cs.ncl.ac.uk/cliff.jones/semantics-library/)* of [Cliff B Jones](http://homepages.cs.ncl.ac.uk/cliff.jones/)
 
@@ -69,7 +73,9 @@ Recent and forthcoming meetings in which I'm involved:
 
 - [Spoofax](https://www.metaborg.org/en/latest/) language workbench
 - [GitHub](https://github.com): [Pages](https://pages.github.com), [Desktop](https://desktop.github.com) repository and website management
-- [Atom](https://atom.io) text editor
+- [Atom](https://atom.io/) text editor
+- [SWI-Prolog](https://www.swi-prolog.org/) implementation of the *Prolog* language
+- [PDT](https://sewiki.iai.uni-bonn.de/research/pdt/) *Prolog* IDE for *Eclipse*
 - [Typora](https://typora.io) *Markdown* editor
 - [Overleaf](https://www.overleaf.com?r=fd800312&rm=d&rs=b) collaborative *LaTeX* editor
 - [Identify the Champion](http://www.iam.unibe.ch/~oscar/Champion/) organisational pattern language for programme committees
@@ -78,5 +84,5 @@ Recent and forthcoming meetings in which I'm involved:
 ### Mac OS
 
 - [Mac OS](https://www.apple.com/macos/) operating system
-- [MacPorts](https://www.macports.org) package manager
+- [MacPorts](https://www.macports.org/) package manager
 - [MacTeX](http://www.tug.org/mactex/) *TeXLive* distribution
