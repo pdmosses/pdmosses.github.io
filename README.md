@@ -25,9 +25,9 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
 
 - **Executable component-based semantics,** with [L. Thomas van Binsbergen](https://www.cwi.nl/people/thomas-van-binsbergen) and [Neil Sculthorpe](http://neilsculthorpe.com): *[JLAMP](https://doi.org/10.1016/j.jlamp.2018.12.004)* (2019), *[preprint](papers/Binsbergen2019ECBS)*
 
-- **MSOS in Prolog** (2004) on [GitHub Pages](https://pdmosses.github.io/msos-in-prolog): *Prolog* rules corresponding to the *MSOS* rules in my [JLAP 2004](papers/Mosses2004MSOS) paper
+- **MSOS in Prolog** (2003) on [GitHub Pages](https://pdmosses.github.io/msos-in-prolog): *Prolog* rules corresponding to the *MSOS* rules in my [JLAP 2004](papers/Mosses2004MSOS) paper
 
-- **Prolog MSDF Tools** (2004) on [GitHub Pages](https://pdmosses.github.io/prolog-msdf-tools): Generation of *Prolog* interpreters from *MSDF* (a meta-language for specifying *MSOS* of programming languages), including [lecture notes](https://github.com/pdmosses/prolog-msdf-tools/blob/master/Notes.pdf)
+- **Prolog MSDF Tools** (2003) on [GitHub Pages](https://pdmosses.github.io/prolog-msdf-tools): Generation of *Prolog* interpreters from *MSDF* (a meta-language for specifying *MSOS* of programming languages), including [lecture notes](https://github.com/pdmosses/prolog-msdf-tools/blob/master/Notes.pdf)
 
 - **SIS – Semantics Implementation System** (1979): *[Reference Manual](http://cs.swansea.ac.uk/~cspdm/pub/DAIMI-MD-30.pdf)* (PDF), *[Tested Examples](http://cs.swansea.ac.uk/~cspdm/pub/DAIMI-MD-33.pdf)* (PDF), copied from the *[Semantics Library](http://homepages.cs.ncl.ac.uk/cliff.jones/semantics-library/)* of [Cliff B Jones](http://homepages.cs.ncl.ac.uk/cliff.jones/)
 
