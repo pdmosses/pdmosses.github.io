@@ -9,3 +9,16 @@
 
 **Preprint (2003):** 
 [PDF](preprint.pdf)
+
+**Related projects:**
+
+- [MSOS in Prolog](https://pdmosses.github.io/msos-in-prolog):
+  Prolog rules corresponding to the MSOS rules in this paper.
+
+- [Prolog MSOS Tool](https://pdmosses.github.io/prolog-msos-tool):
+  Generation of Prolog interpreters from MSDF (a meta-language for specifying
+  MSOS of programming languages), including lecture notes.
+
+- [CBS](https://plancomps.github.io/CBS-beta/):
+  A framework for component-based specification of programming languages using
+  MSOS.
