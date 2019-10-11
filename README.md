@@ -37,21 +37,23 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
 
 ## Meetings
 
-Recent and forthcoming meetings in which I'm involved:
+Forthcoming and recent meetings in which I'm involved:
 
-- [SBLP 2019](https://cbsoft2019.ufba.br/#/sblp):
-  *XXIII Brazilian Symposium on Programming Languages*,
-  Universidade Federal da Bahia – UFBA, Salvador, Brazil, 23–27 September 2019
+- [Colloquium at Groningen](https://www.rug.nl/research/bernoulli/calendar/colloquia/computer-science/2019/20191113-p-mosses):
+  *CBS, Component-based specification of programming languages*, 13 November 2019
+- [GPCE 2019](https://conf.researchr.org/home/gpce-2019):
+  *18th International Conference on Generative Programming: Concepts & Experiences*, Athens, Greece, 21–22 October 2019
+  (PC member)
+- [HFM 2019](https://sites.google.com/view/hfm2019/):
+  *History of Formal Methods Workshop*, Porto, Portugal, 11 October 2019
   (PC member)
 - [F-IDE 2019](https://sites.google.com/view/fideworkshop2019/):
   *5th Workshop on Formal Integrated Development Environments*, Porto, Portugal, 7 October 2019 
   (presentation: *A component-based formal language workbench*, 
   [preprint](https://easychair.org/publications/preprint/qJsd))
-- [HFM 2019](https://sites.google.com/view/hfm2019/):
-  *History of Formal Methods Workshop*, Porto, Portugal, 11 October 2019
-  (PC member)
-- [GPCE 2019](https://conf.researchr.org/home/gpce-2019):
-  *18th International Conference on Generative Programming: Concepts & Experiences*, Athens, Greece, 21–22 October 2019
+- [SBLP 2019](https://cbsoft2019.ufba.br/#/sblp):
+  *XXIII Brazilian Symposium on Programming Languages*,
+  Universidade Federal da Bahia – UFBA, Salvador, Brazil, 23–27 September 2019
   (PC member)
 
 ## Current affiliations
