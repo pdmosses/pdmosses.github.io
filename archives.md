@@ -154,6 +154,22 @@ This area concerns the formal speciﬁcation of requirements and design for soft
 
 #### 2019
 
+- [Colloquium at Groningen](https://www.rug.nl/research/bernoulli/calendar/colloquia/computer-science/2019/20191113-p-mosses):
+  *CBS, Component-based specification of programming languages*, 13 November 2019
+- [GPCE 2019](https://conf.researchr.org/home/gpce-2019):
+  *18th International Conference on Generative Programming: Concepts & Experiences*, Athens, Greece, 21–22 October 2019
+  (PC member)
+- [HFM 2019](https://sites.google.com/view/hfm2019/):
+  *History of Formal Methods Workshop*, Porto, Portugal, 11 October 2019
+  (PC member)
+- [F-IDE 2019](https://sites.google.com/view/fideworkshop2019/):
+  *5th Workshop on Formal Integrated Development Environments*, Porto, Portugal, 7 October 2019 
+  (presentation: *A component-based formal language workbench*, 
+  [preprint](https://easychair.org/publications/preprint/qJsd))
+- [SBLP 2019](https://cbsoft2019.ufba.br/#/sblp):
+  *XXIII Brazilian Symposium on Programming Languages*,
+  Universidade Federal da Bahia – UFBA, Salvador, Brazil, 23–27 September 2019
+  (PC member)
 - [PSI'19](http://psi.nsc.ru): *12th A.P. Ershov Informatics Conference*, Akademgorodok, Novosibirsk, Russia, 2–5 July 2019  (PC member)
 - [FSEN 2019](http://fsen.ir/2019/): *8th IPM International Conference on Fundamentals of Software Engineering*, Tehran, Iran, 1–3 May 2019 (PC member)
 - [LangDev'19](http://langdevcon.org/): *an informal meeting on language development using language workbenches*, Amsterdam, The Netherlands, 21–22 March 2019 (presentation: *Reuse and co-evolution in CBS language specifications*, slides [PDF](https://pdmosses.github.io/meetings/LangDev-2019/LangDev-2019-slides.pdf))
