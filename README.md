@@ -1,10 +1,10 @@
 # Peter D Mosses
 
-> BA, MSc, DPhil ([Oxford University](http://www.ox.ac.uk/))
+> BA, MSc, DPhil ([Oxford University](http://www.ox.ac.uk/))
 >
-> [Professor Emeritus](http://www.swansea.ac.uk/staff/science/computer-science/p.d.mosses/), [Computer Science](http://www.swansea.ac.uk/compsci/), [Swansea University](http://www.swansea.ac.uk/), UK
+> [Professor Emeritus](http://www.swansea.ac.uk/staff/science/computer-science/p.d.mosses/), [Computer Science](http://www.swansea.ac.uk/compsci/), [Swansea University](http://www.swansea.ac.uk/), UK
 >
-> [Visitor](https://www.tudelft.nl/en/staff/p.d.mosses/), [Programming Languages Group](https://pl.ewi.tudelft.nl), [Software Technology](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/), [TU Delft](https://www.tudelft.nl/en/), The Netherlands
+> [Visitor](https://www.tudelft.nl/en/staff/p.d.mosses/), [Programming Languages Group](https://pl.ewi.tudelft.nl), [Software Technology](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/), [TU Delft](https://www.tudelft.nl/en/), The Netherlands
 
 The focus of my current research is further development of the component-based approach to semantics of programming languages, established by the **[PLanCompS](http://plancomps.org)** project, together with tool support and major case studies.
 
@@ -21,17 +21,17 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
   - [*Funcons-beta*](https://plancomps.github.io/CBS-beta/docs/Funcons-beta): an initial library of 'funcons' (fundamental programming constructs)
   - [*Languages-beta*](https://plancomps.github.io/CBS-beta/docs/Languages-beta): several illustrative languages specified by translation to funcons
 
-- **Software meta-language engineering and CBS:** *[Journal of Computer Languages](https://doi.org/10.1016/j.jvlc.2018.11.003)* (2019)
+- **Software meta-language engineering and CBS:** *[Journal of Computer Languages](https://doi.org/10.1016/j.jvlc.2018.11.003)* (2019)
 
-- **Executable component-based semantics,** with [L. Thomas van Binsbergen](https://www.cwi.nl/people/thomas-van-binsbergen) and [Neil Sculthorpe](http://neilsculthorpe.com): *[JLAMP](https://doi.org/10.1016/j.jlamp.2018.12.004)* (2019), *[preprint](papers/Binsbergen2019ECBS)*
+- **Executable component-based semantics,** with [L. Thomas van Binsbergen](https://www.cwi.nl/people/thomas-van-binsbergen) and [Neil Sculthorpe](http://neilsculthorpe.com): *[JLAMP](https://doi.org/10.1016/j.jlamp.2018.12.004)* (2019), *[preprint](papers/Binsbergen2019ECBS)*
 
 - **MSOS in Prolog** (2003) on [GitHub Pages](https://pdmosses.github.io/msos-in-prolog): *Prolog* rules corresponding to the *MSOS* rules in my [JLAP 2004](papers/Mosses2004MSOS) paper
 
 - **Prolog MSOS Tool** (2003) on [GitHub Pages](https://pdmosses.github.io/prolog-msos-tool): Generation of *Prolog* interpreters from *MSDF* (a meta-language for specifying *MSOS* of programming languages), including [lecture notes](https://github.com/pdmosses/prolog-msos-tool/blob/master/Notes.pdf)
 
-- **SIS – Semantics Implementation System** (1979): *[Reference Manual](http://cs.swansea.ac.uk/~cspdm/pub/DAIMI-MD-30.pdf)* (PDF), *[Tested Examples](http://cs.swansea.ac.uk/~cspdm/pub/DAIMI-MD-33.pdf)* (PDF), copied from the *[Semantics Library](http://homepages.cs.ncl.ac.uk/cliff.jones/semantics-library/)* of [Cliff B Jones](http://homepages.cs.ncl.ac.uk/cliff.jones/)
+- **SIS – Semantics Implementation System** (1979): *[Reference Manual](http://cs.swansea.ac.uk/~cspdm/pub/DAIMI-MD-30.pdf)* (PDF), *[Tested Examples](http://cs.swansea.ac.uk/~cspdm/pub/DAIMI-MD-33.pdf)* (PDF), copied from the *[Semantics Library](http://homepages.cs.ncl.ac.uk/cliff.jones/semantics-library/)* of [Cliff B Jones](http://homepages.cs.ncl.ac.uk/cliff.jones/)
 
-- **Festschrift:** [*Semantics and Algebraic Specification*](http://www.springer.com/computer/foundations/book/978-3-642-04163-1), edited by [Jens Palsberg](http://www.cs.ucla.edu/~palsberg/), with contributions by many international colleagues and former students, published by Springer as  [LNCS 5700](http://www.springer.com/computer/foundations/book/978-3-642-04163-1):
+- **Festschrift:** [*Semantics and Algebraic Specification*](http://www.springer.com/computer/foundations/book/978-3-642-04163-1), edited by [Jens Palsberg](http://www.cs.ucla.edu/~palsberg/), with contributions by many international colleagues and former students, published by Springer as  [LNCS 5700](http://www.springer.com/computer/foundations/book/978-3-642-04163-1):
 
   > [![img](images/festschrift-cover.jpg)](http://www.springer.com/computer/foundations/book/978-3-642-04163-1)
 
@@ -41,18 +41,18 @@ Recent and forthcoming meetings in which I'm involved:
 
 - [SBLP 2019](https://cbsoft2019.ufba.br/#/sblp):
   *XXIII Brazilian Symposium on Programming Languages*,
-  Universidade Federal da Bahia – UFBA, Salvador, Brazil, 23–27 September 2019
-  (PC member)
+  Universidade Federal da Bahia – UFBA, Salvador, Brazil, 23–27 September 2019
+  (PC member)
 - [F-IDE 2019](https://sites.google.com/view/fideworkshop2019/):
-  *5th Workshop on Formal Integrated Development Environments*, Porto, Portugal, 7 October 2019 
-  (presentation: *A component-based formal language workbench*, 
+  *5th Workshop on Formal Integrated Development Environments*, Porto, Portugal, 7 October 2019 
+  (presentation: *A component-based formal language workbench*, 
   [preprint](https://easychair.org/publications/preprint/qJsd))
 - [HFM 2019](https://sites.google.com/view/hfm2019/):
-  *History of Formal Methods Workshop*, Porto, Portugal, 11 October 2019
-  (PC member)
+  *History of Formal Methods Workshop*, Porto, Portugal, 11 October 2019
+  (PC member)
 - [GPCE 2019](https://conf.researchr.org/home/gpce-2019):
-  *18th International Conference on Generative Programming: Concepts & Experiences*, Athens, Greece, 21–22 October 2019
-  (PC member)
+  *18th International Conference on Generative Programming: Concepts & Experiences*, Athens, Greece, 21–22 October 2019
+  (PC member)
 
 ## Current affiliations
 
@@ -77,7 +77,7 @@ Recent and forthcoming meetings in which I'm involved:
 - [SWI-Prolog](https://www.swi-prolog.org/) implementation of the *Prolog* language
 - [PDT](https://sewiki.iai.uni-bonn.de/research/pdt/) *Prolog* IDE for *Eclipse*
 - [Typora](https://typora.io) *Markdown* editor
-- [Overleaf](https://www.overleaf.com?r=fd800312&rm=d&rs=b) collaborative *LaTeX* editor
+- [Overleaf](https://www.overleaf.com) collaborative *LaTeX* editor
 - [Identify the Champion](http://www.iam.unibe.ch/~oscar/Champion/) organisational pattern language for programme committees
 - [Computer Science for Fun!](http://www.cs4fn.org/) magazine
 
