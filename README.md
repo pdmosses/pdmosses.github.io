@@ -1,8 +1,8 @@
 # Peter D Mosses
 
-> BA, MSc, DPhil ([Oxford University](http://www.ox.ac.uk/))
+> BA, MSc, DPhil ([Oxford University](https://www.ox.ac.uk/))
 >
-> [Professor Emeritus](http://www.swansea.ac.uk/staff/science/computer-science/p.d.mosses/), [Computer Science](http://www.swansea.ac.uk/compsci/), [Swansea University](http://www.swansea.ac.uk/), UK
+> [Professor Emeritus](https://www.swansea.ac.uk/staff/science/computer-science/p.d.mosses/), [Computer Science](https://www.swansea.ac.uk/compsci/), [Swansea University](http://www.swansea.ac.uk/), UK
 >
 > [Visitor](https://www.tudelft.nl/en/staff/p.d.mosses/), [Programming Languages Group](https://pl.ewi.tudelft.nl), [Software Technology](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/), [TU Delft](https://www.tudelft.nl/en/), The Netherlands
 
@@ -12,7 +12,7 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
 
 ## Publications
 
-[ORCID](https://orcid.org/0000-0002-5826-7520) • [Google Scholar](https://scholar.google.co.uk/citations?user=fIK8JS8AAAAJ) • [Researchr](https://researchr.org/profile/peterdmosses) • [ResearchGate](http://www.researchgate.net/profile/Peter_Mosses) • [DBLP](https://dblp.org/pid/m/PeterDMosses) • [AMiner](http://aminer.org/profile/53f439bbdabfaeee229c9f29) • [Scopus](https://www.scopus.com/authid/detail.uri?authorId=6701810942) • [GitHub](https://github.com/pdmosses)
+[ORCID](https://orcid.org/0000-0002-5826-7520) • [Google Scholar](https://scholar.google.co.uk/citations?user=fIK8JS8AAAAJ) • [Researchr](https://researchr.org/profile/peterdmosses) • [ResearchGate](https://www.researchgate.net/profile/Peter_Mosses) • [DBLP](https://dblp.org/pid/m/PeterDMosses) • [AMiner](https://aminer.org/profile/53f439bbdabfaeee229c9f29) • [Scopus](https://www.scopus.com/authid/detail.uri?authorId=6701810942) • [GitHub](https://github.com/pdmosses)
 
 ### Highlights
 
@@ -31,7 +31,7 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
 
 - **SIS – Semantics Implementation System** (1979): *[Reference Manual](http://cs.swansea.ac.uk/~cspdm/pub/DAIMI-MD-30.pdf)* (PDF), *[Tested Examples](http://cs.swansea.ac.uk/~cspdm/pub/DAIMI-MD-33.pdf)* (PDF), copied from the *[Semantics Library](http://homepages.cs.ncl.ac.uk/cliff.jones/semantics-library/)* of [Cliff B Jones](http://homepages.cs.ncl.ac.uk/cliff.jones/)
 
-- **Festschrift:** [*Semantics and Algebraic Specification*](http://www.springer.com/computer/foundations/book/978-3-642-04163-1), edited by [Jens Palsberg](http://www.cs.ucla.edu/~palsberg/), with contributions by many international colleagues and former students, published by Springer as  [LNCS 5700](http://www.springer.com/computer/foundations/book/978-3-642-04163-1):
+- **Festschrift:** [*Semantics and Algebraic Specification*](https://www.springer.com/computer/foundations/book/978-3-642-04163-1), edited by [Jens Palsberg](https://www.cs.ucla.edu/~palsberg/), with contributions by many international colleagues and former students, published by Springer as  [LNCS 5700](https://www.springer.com/computer/foundations/book/978-3-642-04163-1):
 
   > [![img](images/festschrift-cover.jpg)](http://www.springer.com/computer/foundations/book/978-3-642-04163-1)
 
@@ -39,7 +39,9 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
 
 Forthcoming and recent meetings in which I'm involved:
 
-- [Dagstuhl Seminar](http://www.dagstuhl.de/20131):
+- [BCTCS 2020](http://cs.swansea.ac.uk/bctcs2020/):
+  *36th British Colloquium for Theoretical Computer Science*, Swansea, UK, 6-8 April 2020
+- [Dagstuhl Seminar](https://www.dagstuhl.de/20131):
   *Static Methods for Correctness of Model and Program Transformations*, Dagstuhl, Germany, 22–27 March 2020
 - [IFIP WG 2.11](https://wiki.hh.se/wg211/index.php?title=WG211/M20Schedule):
   *Working Group Meeting on Program Generation*, Paris, France, 17–20 February 2020 (Member)
@@ -51,11 +53,11 @@ Forthcoming and recent meetings in which I'm involved:
 - [F-IDE 2019](https://sites.google.com/view/fideworkshop2019/):
   *5th Workshop on Formal Integrated Development Environments*, Porto, Portugal, 7 October 2019
   (presentation: *A component-based formal language workbench*,
-  [preprint](https://easychair.org/publications/preprint/qJsd))
+  [paper](https://doi.org/10.4204/EPTCS.310.4))
 
 ## Current affiliations
 
-- **[Swansea University](http://www.swansea.ac.uk/):** Department of [Computer Science](http://www.swansea.ac.uk/compsci/)  
+- **[Swansea University](https://www.swansea.ac.uk/):** Department of [Computer Science](https://www.swansea.ac.uk/compsci/)  
   (professor 2005–2015, emeritus since 2016)
 - **[TU Delft](https://www.tudelft.nl/en/):** Research group on [Programming Languages](https://pl.ewi.tudelft.nl)  
   (visitor since 2016)
@@ -77,11 +79,11 @@ Forthcoming and recent meetings in which I'm involved:
 - [PDT](https://sewiki.iai.uni-bonn.de/research/pdt/) *Prolog* IDE for *Eclipse*
 - [Typora](https://typora.io) *Markdown* editor
 - [Overleaf](https://www.overleaf.com) collaborative *LaTeX* editor
+- [MathJax](https://www.mathjax.org) beautiful math in all browsers
 - [Identify the Champion](http://www.iam.unibe.ch/~oscar/Champion/) organisational pattern language for programme committees
-- [Computer Science for Fun!](http://www.cs4fn.org/) magazine
 
 ### Mac OS
 
 - [Mac OS](https://www.apple.com/macos/) operating system
 - [MacPorts](https://www.macports.org/) package manager
-- [MacTeX](http://www.tug.org/mactex/) *TeXLive* distribution
+- [MacTeX](https://www.tug.org/mactex/) *TeXLive* distribution
