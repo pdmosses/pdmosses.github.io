@@ -41,8 +41,8 @@ Forthcoming and recent meetings in which I'm involved:
 
 - [BCTCS 2020](http://cs.swansea.ac.uk/bctcs2020/):
   *36th British Colloquium for Theoretical Computer Science*, Swansea, UK, 6-8 April 2020
-- [Dagstuhl Seminar](https://www.dagstuhl.de/20131):
-  *Static Methods for Correctness of Model and Program Transformations*, Dagstuhl, Germany, 22–27 March 2020
+- ~~[Dagstuhl Seminar](https://www.dagstuhl.de/20131):
+  *Static Methods for Correctness of Model and Program Transformations*, Dagstuhl, Germany, 22–27 March 2020~~
 - [IFIP WG 2.11](https://wiki.hh.se/wg211/index.php?title=WG211/M20Schedule):
   *Working Group Meeting on Program Generation*, Paris, France, 17–20 February 2020 (Member)
 - [PLNL 2019](https://wiki.clean.cs.ru.nl/PLNL19):
