@@ -41,11 +41,7 @@ Forthcoming and recent meetings in which I'm involved:
 
 - [BCTCS 2020](http://cs.swansea.ac.uk/bctcs2020/):
   *36th British Colloquium for Theoretical Computer Science*, ~~Swansea, UK,~~ online, 6-8 April 2020
-  
-  __13:10 (UK time) 7 April, Zoom Meeting ID: 
-  [158-206-120](https://swanseauniversity.zoom.us/j/158206120) (Stream B): 
-  *Towards Semantics Online*__
-
+  (online presentation: *Towards Semantics Online*)
 - ~~[Dagstuhl Seminar](https://www.dagstuhl.de/20131):
   *Static Methods for Correctness of Model and Program Transformations*, Dagstuhl, Germany, 22–27 March 2020~~
 - [IFIP WG 2.11](https://wiki.hh.se/wg211/index.php?title=WG211/M20Schedule):
