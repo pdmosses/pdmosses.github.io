@@ -2,13 +2,13 @@
 
 > BA, MSc, DPhil ([Oxford University](https://www.ox.ac.uk/))
 >
-> [Professor Emeritus](https://www.swansea.ac.uk/staff/science/computer-science/p.d.mosses/), [Computer Science](https://www.swansea.ac.uk/compsci/), [Swansea University](http://www.swansea.ac.uk/), UK
+> [Professor Emeritus](https://www.swansea.ac.uk/staff/science/compsci/mosses-p-d/), [Computer Science](https://www.swansea.ac.uk/compsci/), [Swansea University](http://www.swansea.ac.uk/), UK
 >
-> [Visitor](https://www.tudelft.nl/en/staff/p.d.mosses/), [Programming Languages Group](https://pl.ewi.tudelft.nl), [Software Technology](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/), [TU Delft](https://www.tudelft.nl/en/), The Netherlands
+> [Visitor](https://www.tudelft.nl/en/staff/p.d.mosses/), [Programming Languages Group](https://pl.ewi.tudelft.nl), [Software Technology](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/), [Delft University of Technology](https://www.tudelft.nl/en/), The Netherlands
 
 The focus of my current research is further development of the component-based approach to semantics of programming languages, established by the **[PLanCompS](http://plancomps.org)** project, together with tool support and major case studies.
 
-My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea University is no longer updated, and will be removed. All items of potential current interest have been copied to this page; most of the other items have been copied to the [archives](archives.md) page.
+My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea University is no longer updated. All items of potential current interest have been copied to this page; most of the other items have been copied to the [archives](archives.md) page.
 
 ## Publications
 
@@ -37,24 +37,13 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
 
 ## Meetings
 
-Forthcoming and recent meetings in which I'm involved:
+Recent meetings in which I was involved:
 
 - [BCTCS 2020](http://cs.swansea.ac.uk/bctcs2020/):
   *36th British Colloquium for Theoretical Computer Science*, ~~Swansea, UK,~~ online, 6-8 April 2020
   (presentation: *Towards Semantics Online*, [PDF](http://cs.swansea.ac.uk/bctcs2020/Slides/Mosses.pdf))
-- ~~[Dagstuhl Seminar](https://www.dagstuhl.de/20131):
-  *Static Methods for Correctness of Model and Program Transformations*, Dagstuhl, Germany, 22–27 March 2020~~
 - [IFIP WG 2.11](https://wiki.hh.se/wg211/index.php?title=WG211/M20Schedule):
   *Working Group Meeting on Program Generation*, Paris, France, 17–20 February 2020 (Member)
-- [PLNL 2019](https://wiki.clean.cs.ru.nl/PLNL19):
-  *Second Workshop on Programming Languages in The Netherlands*, Radboud University Nijmegen, 12 December 2019
-- [Colloquium at Groningen](https://www.rug.nl/research/bernoulli/calendar/colloquia/computer-science/2019/20191113-p-mosses):
-  *CBS, Component-based specification of programming languages*, 13 November 2019
-  (presentation, discussions)
-- [F-IDE 2019](https://sites.google.com/view/fideworkshop2019/):
-  *5th Workshop on Formal Integrated Development Environments*, Porto, Portugal, 7 October 2019
-  (presentation: *A component-based formal language workbench*,
-  [paper](https://doi.org/10.4204/EPTCS.310.4))
 
 ## Current affiliations
 

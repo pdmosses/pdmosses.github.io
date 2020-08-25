@@ -154,6 +154,8 @@ This area concerns the formal speciﬁcation of requirements and design for soft
 
 #### 2019
 
+- [PLNL 2019](https://wiki.clean.cs.ru.nl/PLNL19):
+  *Second Workshop on Programming Languages in The Netherlands*, Radboud University Nijmegen, 12 December 2019
 - [Colloquium at Groningen](https://www.rug.nl/research/bernoulli/calendar/colloquia/computer-science/2019/20191113-p-mosses):
   *CBS, Component-based specification of programming languages*, 13 November 2019
 - [GPCE 2019](https://conf.researchr.org/home/gpce-2019):
