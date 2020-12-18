@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MathJax Equation References</title>
+<!-- Copyright (c) 2012 Design Science, Inc. -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<script>
+  MathJax = { tex: { tags: 'ams', packages: {'[+]': ['textmacros']} }, loader: { load: ['[tex]/textmacros'] }, svg: { mtextInheritFont: true, displayAlign: 'left', displayIndent: '2em', fontCache: 'global' } };
+</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+
+</head>
+<body>
+
+<h1>A test of Equation References</h1>
+
+\[\begin{equation}
+a=b\label{x:z}
+\end{equation}\]
+\[\begin{equation}
+c=d\label{xyz}
+\end{equation}\]
+<p>x</p>
+<p>x</p>
+<p>x</p>
+<p>x</p>
+<p>x</p>
+<p>x</p>
+<p>x</p>
+<p>x</p>
+<p>x</p>
+<p>x</p>
+<p>x</p>
+<p>x</p>
+<p>x</p>
+<p>x</p>
+<p>Link to equation with label <code>x:z</code>: \(\eqref{x:z}\)</p>
+<p>Link to equation with label <code>xyz</code>: \(\eqref{xyz}\)</p>
+
+</body>
+</html>
