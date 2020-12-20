@@ -17,11 +17,17 @@
 
 <h1>A test of Equation References</h1>
 
+<p><code>\label{x:z}</code>:</p>
 \[\begin{equation}
 a=b\label{x:z}
 \end{equation}\]
+<p><code>\label{xyz}</code>:</p>
 \[\begin{equation}
 c=d\label{xyz}
+\end{equation}\]
+<p><code>\cssId{mjx-eqn-x%3Ax}{x=y}</code>:</p>
+\[\begin{equation}
+\cssId{mjx-eqn-x%3Ax}{x=y}
 \end{equation}\]
 <p>x</p>
 <p>x</p>
@@ -37,8 +43,10 @@ c=d\label{xyz}
 <p>x</p>
 <p>x</p>
 <p>x</p>
-<p>Link to equation with label <code>x:z</code>: \(\eqref{x:z}\)</p>
-<p>Link to equation with label <code>xyz</code>: \(\eqref{xyz}\)</p>
-
+<p>All the following links work in Firefox.</p>
+<p><code>\eqref{x:z}</code>: \(\eqref{x:z}\) works in Safari</p>
+<p><code>\eqref{xyz}</code>: \(\eqref{xyz}\) doesn’t work in Safari</p>
+<p><code>\href{#mjx-eqn-x%3Az}{link}</code>: \(\href{#mjx-eqn-x%3Az}{link}\) works in Safari</p>
+<p><code>\href{#mjx-eqn-x%3Ax}{link}</code>: \(\href{#mjx-eqn-x%3Ax}{link}\) doesn’t work in Safari</p>
 </body>
 </html>
