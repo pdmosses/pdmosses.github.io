@@ -25,10 +25,10 @@ a=b\label{x:z}
 \[\begin{equation}
 c=d\label{xyz}
 \end{equation}\]
-<p><code>\cssId{mjx-eqn-x%3Ax}{x=y}</code>:</p>
-\[\begin{equation}
-\cssId{mjx-eqn-x%3Ax}{x=y}
-\end{equation}\]
+<p><code>\smash{\raise{4ex}{\cssId{mjx-eqn-x:x}{}}}x=y</code>:</p>
+\[\begin{align*}
+\smash{\raise{4ex}{\cssId{mjx-eqn-x:x}{}}}x=y
+\end{align*}\]
 <p>x</p>
 <p>x</p>
 <p>x</p>
@@ -46,7 +46,8 @@ c=d\label{xyz}
 <p>All the following links work in Firefox.</p>
 <p><code>\eqref{x:z}</code>: \(\eqref{x:z}\) works in Safari</p>
 <p><code>\eqref{xyz}</code>: \(\eqref{xyz}\) doesn’t work in Safari</p>
+<p><code>\href{#mjx-eqn-xyz}{link}</code>: \(\href{#mjx-eqn-xyz}{link}\) doesn't work in Safari</p>
 <p><code>\href{#mjx-eqn-x%3Az}{link}</code>: \(\href{#mjx-eqn-x%3Az}{link}\) works in Safari</p>
-<p><code>\href{#mjx-eqn-x%3Ax}{link}</code>: \(\href{#mjx-eqn-x%3Ax}{link}\) doesn’t work in Safari</p>
+<p><code>\href{#mjx-eqn-x%3Ax}{link}</code>: \(\href{#mjx-eqn-x%3Ax}{link}\) works in Safari,  but scrolling differs from Firefox</p>
 </body>
 </html>
