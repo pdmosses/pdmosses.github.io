@@ -6,6 +6,8 @@
 >
 > [Visitor](https://www.tudelft.nl/en/staff/p.d.mosses/), [Programming Languages Group](https://pl.ewi.tudelft.nl), [Software Technology](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/), [Delft University of Technology](https://www.tudelft.nl/en/), The Netherlands
 
+> **N.B. I am currently off work, and responding only to urgent e-mails!**
+
 The focus of my current research is further development of the component-based approach to semantics of programming languages, established by the **[PLanCompS](http://plancomps.org)** project, together with tool support and major case studies.
 
 My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea University is no longer updated. All items of potential current interest have been copied to this page; most of the other items have been copied to the [archives](archives.md) page.
