@@ -6,8 +6,7 @@
 >
 > [Visitor](https://www.tudelft.nl/en/staff/p.d.mosses/), [Programming Languages Group](https://pl.ewi.tudelft.nl), [Software Technology](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/), [Delft University of Technology](https://www.tudelft.nl/en/), The Netherlands
 
-> **N.B. Currently, I am responding only to urgent e-mails.
-> I have paused my research (and related activities) due to a continuing health issue.**
+> **In April (after a 5-month break) I am resuming my research activities.**
 
 The focus of my current research is further development of the component-based approach to semantics of programming languages, established by the **[PLanCompS](http://plancomps.org)** project, together with tool support and major case studies.
 
