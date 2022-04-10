@@ -5,8 +5,12 @@
 > [Professor Emeritus](https://www.swansea.ac.uk/staff/science/compsci/mosses-p-d/), [Computer Science](https://www.swansea.ac.uk/compsci/), [Swansea University](http://www.swansea.ac.uk/), UK
 >
 > [Visitor](https://www.tudelft.nl/en/staff/p.d.mosses/), [Programming Languages Group](https://pl.ewi.tudelft.nl), [Software Technology](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/), [Delft University of Technology](https://www.tudelft.nl/en/), The Netherlands
-
-> **In April (after a 5-month break) I am resuming my research activities.**
+> 
+> <span markdown="1" style="border: 0.75ex solid black; padding: 1ex;">
+>   **[In Memoriam Eelco Visser (1966--2022)](https://www.tudelft.nl/en/2022/ewi/in-memoriam-eelco-visser-1966-2022)**
+> </span>
+> \\
+>  
 
 The focus of my current research is further development of the component-based approach to semantics of programming languages, established by the **[PLanCompS](http://plancomps.org)** project, together with tool support and major case studies.
 
