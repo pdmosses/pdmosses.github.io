@@ -93,11 +93,11 @@ Some previous meetings in which I was involved:
 - [PDT](https://sewiki.iai.uni-bonn.de/research/pdt/) *Prolog* IDE for *Eclipse*
 - [Typora](https://typora.io) *Markdown* editor
 - [Overleaf](https://www.overleaf.com) collaborative *LaTeX* editor
+- [KaTeX](https://katex.org) The *fastest* math typesetting library for the web
 - [MathJax](https://www.mathjax.org) beautiful math in all browsers
 - [Identify the Champion](http://www.iam.unibe.ch/~oscar/Champion/) organisational pattern language for programme committees
 
 ### Mac OS
 
 - [Mac OS](https://www.apple.com/macos/) operating system
-- [MacPorts](https://www.macports.org/) package manager
 - [MacTeX](https://www.tug.org/mactex/) *TeXLive* distribution
