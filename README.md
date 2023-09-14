@@ -5,20 +5,35 @@
 > [Professor Emeritus](https://www.swansea.ac.uk/staff/science/compsci/mosses-p-d/), [Computer Science](https://www.swansea.ac.uk/compsci/), [Swansea University](http://www.swansea.ac.uk/), UK
 >
 > [Visitor](https://www.tudelft.nl/en/staff/p.d.mosses/), [Programming Languages Group](https://pl.ewi.tudelft.nl), [Software Technology](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/), [Delft University of Technology](https://www.tudelft.nl/en/), The Netherlands
-> 
-> <span markdown="1" style="border: 0.75ex solid black; padding: 1ex;">
->   **[In Memoriam Eelco Visser (1966--2022)](https://www.tudelft.nl/en/2022/ewi/in-memoriam-eelco-visser-1966-2022)**
-> </span>
-> \\
->  
 
-The focus of my current research is further development of the component-based approach to semantics of programming languages, established by the **[PLanCompS](http://plancomps.org)** project, together with tool support and major case studies.
+The focus of my current research is further development of the component-based approach to semantics of programming languages, established by the **[PLanCompS](https://plancomps.github.io)** project, together with tool support and major case studies.
 
-My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea University is no longer updated. All items of potential current interest have been copied to this page; most of the other items have been copied to the [archives](archives.md) page.
+> My old personal home page at Swansea University[^cspdm] has been 'retired'…
+> Never mind: all items of potential current interest had already been copied to this page,
+> and most of the other items to the [archives](archives.md) page.
+
+[^cspdm]: Broken link: `cs.swansea.ac.uk/~cspdm/`
 
 ## Publications
 
 [ORCID](https://orcid.org/0000-0002-5826-7520) • [Google Scholar](https://scholar.google.co.uk/citations?user=fIK8JS8AAAAJ) • [Researchr](https://researchr.org/profile/peterdmosses) • [ResearchGate](https://www.researchgate.net/profile/Peter_Mosses) • [DBLP](https://dblp.org/pid/m/PeterDMosses) • [AMiner](https://aminer.org/profile/53f439bbdabfaeee229c9f29) • [Scopus](https://www.scopus.com/authid/detail.uri?authorId=6701810942) • [GitHub](https://github.com/pdmosses)
+
+### Recent
+
+- **Online Name-Based Navigation for Software Meta-languages:** \\
+  **[preprint](https://arxiv.org/abs/2309.06121),** to be published in *Proceedings of the 16th ACM SIGPLAN International Conference on Software Language Engineering (SLE '23)* 
+
+- **[Using Spoofax to Support Online Code Navigation](https://doi.org/10.4230/OASIcs.EVCS.2023.21):** \\
+  *Eelco Visser Commemorative Symposium 2023* (21:1-21:12)
+
+- **Eelco Visser Commemorative Symposium, EVCS 2023,** \\
+  April 5, 2023, Delft, The Netherlands:
+  editor, with 	Ralf Lämmel and Friedrich Steimann,
+  [OASIcs 109](https://www.dagstuhl.de/dagpub/978-3-95977-267-9), open access
+
+- **[Intrinsically-typed definitional interpreters à la carte](https://doi.org/10.1145/3563355):**
+  with Cas van der Rest, Casper Bach Poulsen, Arjen Rouvoet, and Eelco Visser,
+  *Proc. ACM Program. Lang.* 6(OOPSLA2): 1903-1932 (2022), open access
 
 ### Highlights
 
@@ -26,6 +41,9 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
 
   - [*Funcons-beta*](https://plancomps.github.io/CBS-beta/docs/Funcons-beta): an initial library of 'funcons' (fundamental programming constructs)
   - [*Languages-beta*](https://plancomps.github.io/CBS-beta/docs/Languages-beta): several illustrative languages specified by translation to funcons
+
+- **Fundamental Constructs in Programming Languages:**
+  **[preprint](https://arxiv.org/abs/2107.10545),** published in [*ISoLA 2021:* 296-321](https://doi.org/10.1007/978-3-030-89159-6_19)
 
 - **Software meta-language engineering and CBS:** *[Journal of Computer Languages](https://doi.org/10.1016/j.jvlc.2018.11.003)* (2019)
 
@@ -43,9 +61,9 @@ My [old personal home page](http://cs.swansea.ac.uk/~cspdm/) at Swansea Universi
 
 ## Meetings
 
-Recent meetings in which I was involved:
+Some previous meetings in which I was involved:
 
-- [BCTCS 2020](http://cs.swansea.ac.uk/bctcs2020/):
+- BCTCS 2020:
   *36th British Colloquium for Theoretical Computer Science*, ~~Swansea, UK,~~ online, 6-8 April 2020
   (presentation: *Towards Semantics Online*, [PDF](http://cs.swansea.ac.uk/bctcs2020/Slides/Mosses.pdf))
 - [IFIP WG 2.11](https://wiki.hh.se/wg211/index.php?title=WG211/M20Schedule):
