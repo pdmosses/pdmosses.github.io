@@ -20,24 +20,27 @@ The focus of my current research is further development of the component-based a
 
 ### Recent
 
-- **Online Name-Based Navigation for Software Meta-languages:** \\
-  **[preprint](https://arxiv.org/abs/2309.06121),** to be published in *Proceedings of the 16th ACM SIGPLAN International Conference on Software Language Engineering (SLE '23)* 
+- **[Online Name-Based Navigation for Software Meta-languages](papers/Mosses2023ONN/sle23-final.pdf "PDF"):** \\
+  in *Proceedings of the 16th ACM SIGPLAN International Conference on Software Language Engineering (SLE '23)* 
 
 - **[Using Spoofax to Support Online Code Navigation](https://doi.org/10.4230/OASIcs.EVCS.2023.21):** \\
-  *Eelco Visser Commemorative Symposium 2023* (21:1-21:12)
+  in *Eelco Visser Commemorative Symposium (EVCS 2023)*, open access, 2023
 
-- **Eelco Visser Commemorative Symposium, EVCS 2023,** \\
-  April 5, 2023, Delft, The Netherlands:
-  editor, with 	Ralf Lämmel and Friedrich Steimann,
-  [OASIcs 109](https://www.dagstuhl.de/dagpub/978-3-95977-267-9), open access
+- **[Eelco Visser Commemorative Symposium (EVCS 2023)](https://www.dagstuhl.de/dagpub/978-3-95977-267-9):** \\
+  OASIcs 109, open access, 2023 \\
+  (editor, with 	Ralf Lämmel and Friedrich Steimann)
 
-- **[Intrinsically-typed definitional interpreters à la carte](https://doi.org/10.1145/3563355):**
-  with Cas van der Rest, Casper Bach Poulsen, Arjen Rouvoet, and Eelco Visser,
-  *Proc. ACM Program. Lang.* 6(OOPSLA2): 1903-1932 (2022), open access
+- **[Intrinsically-typed definitional interpreters à la carte](https://doi.org/10.1145/3563355):** with
+  Cas van der Rest, Casper Bach Poulsen, Arjen Rouvoet, and Eelco Visser,
+  *Proc. ACM Program. Lang.* 6(OOPSLA2): 1903-1932, open access, 2022
 
 ### Highlights
 
-- **[CBS](https://plancomps.github.io/CBS-beta/)**: a framework for component-based specification of programming languages (beta-release)
+- **[Hyperlinked twins](https://pdmosses.github.io/hyperlinked-twins/)**:
+  hyperlinked twin websites of language project repositories on GitHub
+
+- **[CBS](https://plancomps.github.io/CBS-beta/)**:
+  a framework for component-based specification of programming languages (beta-release)
 
   - [*Funcons-beta*](https://plancomps.github.io/CBS-beta/docs/Funcons-beta): an initial library of 'funcons' (fundamental programming constructs)
   - [*Languages-beta*](https://plancomps.github.io/CBS-beta/docs/Languages-beta): several illustrative languages specified by translation to funcons
@@ -61,13 +64,27 @@ The focus of my current research is further development of the component-based a
 
 ## Meetings
 
-Some previous meetings in which I was involved:
+Forthcoming/recent meetings:
 
-- BCTCS 2020:
-  *36th British Colloquium for Theoretical Computer Science*, ~~Swansea, UK,~~ online, 6-8 April 2020
-  (presentation: *Towards Semantics Online*, [PDF](http://cs.swansea.ac.uk/bctcs2020/Slides/Mosses.pdf))
+- [LangDev 2023](http://langdevcon.org):
+  *The Language Developer’s Meetup*, Utrecht, Netherlands, 14–15 November 2023
+- [SLE '23](https://2023.splashcon.org/home/sle-2023):
+  *16th ACM SIGPLAN International Conference on Software Language Engineering*,
+  Cascais, Lisbon, Portugal, 23–24 October 2023
+  ([demonstration](https://2023.splashcon.org/details/sle-2023/17/Online-Name-Based-Navigation-for-Software-Meta-languages):
+  *Online name-based navigation for software meta-languages*)
+- *Modular Semantics Seminar*,
+  University of Amsterdam, Amsterdam, 22 August 2023
+  (presentation: *Languages for defining funcons – discussion*)
+- [EVCS 2023](https://symposium.eelcovisser.org):
+  *Eelco Visser Commemorative Symposium*,
+  5 April 2023, Delft, The Netherlands
+  (Organising chair)
 - [IFIP WG 2.11](https://wiki.hh.se/wg211/index.php?title=WG211/M20Schedule):
-  *Working Group Meeting on Program Generation*, Paris, France, 17–20 February 2020 (Member)
+  *Working Group Meeting on Program Generation*, Delft, Netherlands, 3–4 April 2023
+  (Member, local organiser)
+
+[Previous meetings…](archives#previous-meetings)
 
 ## Current affiliations
 
@@ -86,7 +103,7 @@ Some previous meetings in which I was involved:
 
 ## Resources
 
-- [Spoofax](https://www.metaborg.org/en/latest/) language workbench
+- [Spoofax](https://spoofax.dev) language workbench
 - [GitHub](https://github.com): [Pages](https://pages.github.com), [Desktop](https://desktop.github.com) repository and website management
 - [Atom](https://atom.io/) text editor
 - [SWI-Prolog](https://www.swi-prolog.org/) implementation of the *Prolog* language

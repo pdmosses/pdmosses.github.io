@@ -152,6 +152,31 @@ This area concerns the formal speciﬁcation of requirements and design for soft
 
 ## Previous meetings
 
+#### 2022
+
+- [IFIP WG 2.11](https://wiki.hh.se/wg211/index.php?title=WG211/M20Schedule):
+  *Working Group Meeting on Program Generation*, Odense, Denmark, 15–18 August 2022
+  (Member, presentation: *Using Spoofax to Support Online Code Navigation*)
+- *Modular Semantics Meet-Up*, CWI, Amsterdam, 9 June 2022
+  (presentation: *On the design of funcons*)
+
+#### 2021
+
+- ISoLA 2021: 
+  *International Symposium On Leveraging Applications of Formal Methods, Verification and Validation*,
+  Rhodes, Greece, 17–29 October 2021
+  (presentation: *Fundamental concepts in programming languages*, 
+  [preprint](https://arxiv.org/abs/2107.10545))
+
+#### 2020
+
+- BCTCS 2020:
+  *36th British Colloquium for Theoretical Computer Science*, ~~Swansea, UK,~~ online, 6-8 April 2020
+  (presentation: *Towards Semantics Online*, [PDF](http://cs.swansea.ac.uk/bctcs2020/Slides/Mosses.pdf))
+- [IFIP WG 2.11](https://wiki.hh.se/wg211/index.php?title=WG211/M20Schedule):
+  *Working Group Meeting on Program Generation*, Paris, France, 17–20 February 2020 (Member)
+
+
 #### 2019
 
 - [PLNL 2019](https://wiki.clean.cs.ru.nl/PLNL19):
