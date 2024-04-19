@@ -1,44 +1,26 @@
-_site
-Gemfile*
-.sass-cache
-.jekyll-metadata
-
-# Compiled source #
-###################
-*.com
-*.class
-*.dll
+# If you prefer the allow list template instead of the deny list, see community template:
+# https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
+#
+# Binaries for programs and plugins
 *.exe
-*.o
+*.exe~
+*.dll
 *.so
+*.dylib
 
-# Packages #
-############
-# it's better to unpack these files and commit the raw source
-# git has its own built in compression methods
-*.7z
-*.dmg
-*.gz
-*.iso
-*.jar
-*.rar
-*.tar
-*.zip
+# Test binary, built with `go test -c`
+*.test
 
-# Logs and databases #
-######################
-*.log
-*.sql
-*.sqlite
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
 
-# OS generated files #
-######################
+# Dependency directories (remove the comment below to include it)
+# vendor/
+
+# Go workspace file
+go.work
+
+# Added
+
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-.jekyll-metadata
-.jekyll-metadata
+/assets/icons/ai/
