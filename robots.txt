@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pdmosses.github.io/sitemap.xml
