@@ -10,7 +10,7 @@ title = "Peter Mosses"
   dateFormat = "2 January 2006"
 
   mainSections = ["research", "software"]
-  description = "Testing the Congo theme for Hugo"
+  description = "Personal home page for Peter Mosses"
 
 [params.author]
   name = "Peter Mosses"
