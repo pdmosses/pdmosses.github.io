@@ -30,7 +30,7 @@ It was used as the meta-notation for specifying [action semantics].
 > The lattice partial order of the carrier represents sort inclusion;
 > the join and meet operations represent sort union and intersection.
 > The bottom of the lattice represents the empty sort.
-> The empty sort, shunned ni conventional algebraic frameworks,
+> The empty sort, shunned in conventional algebraic frameworks,
 > provides a particularly natural way of representing the lack of result of partial operations –
 > avoiding the need to introduce special "error" elements.
 > Operations need not preserve the empty sort.

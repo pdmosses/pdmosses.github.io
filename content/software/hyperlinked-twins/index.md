@@ -8,7 +8,7 @@ tags:
 - Spoofax
 ---
 
-[Hyperlinked twins] of code repositories (since 2023) are websites that support precise name-based code navigation using ordinary web browsers.
+[Hyperlinked twins] of code repositories (developed since 2023) are websites that support precise name-based code navigation using ordinary web browsers.
 The hyperlinks and highlighting make it much easier to browse, explore, and understand code
 in unfamiliar repositories or languages.
 

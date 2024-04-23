@@ -8,7 +8,7 @@ tags:
 ---
 
 
-The CBS IDE (since 2017) is an integrated development environment for component-based semantics.
+The CBS IDE (developed in 2017) is an integrated development environment for component-based semantics.
 
 The current prototype is implemented in the Spoofax language workbench.
 
