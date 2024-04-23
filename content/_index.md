@@ -6,6 +6,16 @@ description: "Peter's new homepage, implemented using the Congo theme for Hugo."
 [Professor Emeritus] ([Computer Science], [Swansea University])  
 [Visitor] ([Programming Languages Group], [TU Delft])
 
+{{< button href="https://www.sleconf.org/2024/" target="_blank" >}}
+  SLE 2024: ACM SIGPLAN International Conference on  <br>
+Software Language Engineering
+{{< alert >}}
+<mark>    Submission deadline: June 14, 2024    </mark>
+{{< /alert >}}
+{{< /button >}}
+
+----
+
 <details>
 <summary><strong>Career overview</strong>
 </summary>
@@ -15,6 +25,9 @@ description: "Peter's new homepage, implemented using the Congo theme for Hugo."
     text-align: left;
   }
 </style>
+
+I am a PC co-chair for [SLE 2024],
+co-located with [SPLASH] in Pasadena, California.
 
 ### Education and Affiliations
 
@@ -33,6 +46,8 @@ The main focus of my research since the 1980s has been on pragmatic aspects of s
 In the 1980s and 1990s, I also participated in research on [algebraic specification] of data types and software. I was the initial coordinator of [CoFI], the Common Framework Initiative, which designed the algebraic specification language [CASL]; and I was a chair of [IFIP Working Group 1.3] (on Foundations of System Specification).
 </details>
 
+[SLE 2024]:                       https://www.sleconf.org/2024/
+[SPLASH]:                         https://2024.splashcon.org
 [Professor Emeritus]:             https://www.swansea.ac.uk/staff/science/compsci/mosses-p-d/ "Staff page"
 [Computer Science]:               https://www.swansea.ac.uk/compsci/ "Home page"
 [Swansea University]:             https://www.swansea.ac.uk/ "Home page"
