@@ -9,12 +9,15 @@ This section lists my involvement in scientific meetings since 2005.
 
 ## 2024
 
-- [SLE '24](https://sleconf.org/2024/):
+- [SLE '24](https://2024.splashcon.org/track/sle-2024/):
   *17th ACM SIGPLAN International Conference on Software Language Engineering*,
   Pasadena, California, USA, October 2024 (PC co-chair)
+- [JENSFEST 2024](https://2024.splashcon.org/home/jensfest-2024/):
+  This workshop celebrates the career and accomplishments of *[Jens Palsberg](https://web.cs.ucla.edu/~palsberg/)* on the occasion of his 60th birthday.
+  Pasadena, California, USA, October 2024
 - [ETAPS 2024](https://etaps.org/2024/):
   *European Joint Conferences on Theory and Practice of Software*,
-  Luxembourg City, Luxembourg, 6–11 April 2024
+  Luxembourg City, Luxembourg, 6–11 April 2024
 
 ## 2023
 
