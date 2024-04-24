@@ -9,9 +9,8 @@ description: "Peter's new homepage, implemented using the Congo theme for Hugo."
 {{< button href="https://www.sleconf.org/2024/" target="_blank" >}}
   SLE 2024: ACM SIGPLAN International Conference on  <br>
 Software Language Engineering
-{{< alert >}}
-<mark>    Submission deadline: June 14, 2024    </mark>
-{{< /alert >}}
+<br>
+<mark> Submission deadline:   June 14, 2024 </mark>
 {{< /button >}}
 
 ----
