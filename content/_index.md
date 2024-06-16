@@ -6,15 +6,6 @@ description: "Peter's new homepage, implemented using the Congo theme for Hugo."
 [Professor Emeritus] ([Computer Science], [Swansea University])  
 [Visitor] ([Programming Languages Group], [TU Delft])
 
-{{< button href="https://2024.splashcon.org/track/sle-2024/" target="_blank" >}}
-  SLE 2024: ACM SIGPLAN International Conference on  <br>
-Software Language Engineering
-<br>
-<mark> Submission deadline:   June 14, 2024 </mark>
-{{< /button >}}
-
-----
-
 <details>
 <summary><strong>Career overview</strong>
 </summary>
