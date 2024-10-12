@@ -9,12 +9,17 @@ This section lists my involvement in scientific meetings since 2005.
 
 ## 2024
 
+- [IFIP WG 2.11](https://wiki.hh.se/wg211/index.php?title=WG211/M24Schedule):
+  *Working Group Meeting on Program Generation*, Edinburgh, Scotland, 3–6 December 2024
+  (Member)
 - [SLE '24](https://2024.splashcon.org/track/sle-2024/):
   *17th ACM SIGPLAN International Conference on Software Language Engineering*,
   Pasadena, California, USA, October 2024 (PC co-chair)
 - [JENSFEST 2024](https://2024.splashcon.org/home/jensfest-2024/):
   This workshop celebrates the career and accomplishments of *[Jens Palsberg](https://web.cs.ucla.edu/~palsberg/)* on the occasion of his 60th birthday.
   Pasadena, California, USA, October 2024
+  ([presentation](https://2024.splashcon.org/details/jensfest-2024-papers/6/Towards-Verification-of-a-Denotational-Semantics-of-Inheritance):
+  *Towards Verification of a Denotational Semantics of Inheritance*)
 - [ETAPS 2024](https://etaps.org/2024/):
   *European Joint Conferences on Theory and Practice of Software*,
   Luxembourg City, Luxembourg, 6–11 April 2024
@@ -35,13 +40,13 @@ This section lists my involvement in scientific meetings since 2005.
   *Eelco Visser Commemorative Symposium*,
   5 April 2023, Delft, The Netherlands
   (Organising chair, and presentation: *[Using Spoofax to Support Online Code Navigation](https://doi.org/10.4230/OASIcs.EVCS.2023.21 "Dagstuhl")*)
-- [IFIP WG 2.11](https://wiki.hh.se/wg211/index.php?title=WG211/M20Schedule):
+- [IFIP WG 2.11](https://wiki.hh.se/wg211/index.php?title=WG211/M22Schedule):
   *Working Group Meeting on Program Generation*, Delft, Netherlands, 3–4 April 2023
   (Member, local organiser)
 
 ## 2022
 
-- [IFIP WG 2.11](https://wiki.hh.se/wg211/index.php?title=WG211/M20Schedule):
+- [IFIP WG 2.11](https://wiki.hh.se/wg211/index.php?title=WG211/M21Schedule):
   *Working Group Meeting on Program Generation*, Odense, Denmark, 15–18 August 2022
   (Member, presentation: *Using Spoofax to Support Online Code Navigation*)
 - *Modular Semantics Meet-Up*, CWI, Amsterdam, 9 June 2022
