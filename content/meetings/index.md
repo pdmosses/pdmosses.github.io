@@ -21,8 +21,9 @@ This section lists my involvement in scientific meetings since 2005.
   ([presentation](https://2024.splashcon.org/details/jensfest-2024-papers/6/Towards-Verification-of-a-Denotational-Semantics-of-Inheritance):
   *Towards Verification of a Denotational Semantics of Inheritance*)
 - [First Wolves Reunion](https://mcusercontent.com/93a9b46161a9dbb2b70b01db3/files/89f2b378-1aa0-0b30-756b-ac584e26b5e8/First_Wolves_Programme.05.pdf):
-  *50 Years on the Cherwell*,
+  *[50 Years on the Cherwell](https://www.wolfson.ox.ac.uk/50-years-on-the-cherwell/)*,
   Wolfson College, University of Oxford, 6–7 September 2024
+  (DPhil student 1971–75, Junior Research Fellow 1975–76)
 - [ETAPS 2024](https://etaps.org/2024/):
   *European Joint Conferences on Theory and Practice of Software*,
   Luxembourg City, Luxembourg, 6–11 April 2024
@@ -30,7 +31,7 @@ This section lists my involvement in scientific meetings since 2005.
 ## 2023
 
 - [LangDev 2023](http://langdevcon.org):
-  *The Language Developer’s Meetup*, Utrecht, Netherlands, 14–15 November 2023
+  *Language Developer’s Meetup*, Utrecht, Netherlands, 14–15 November 2023
 - [SLE '23](https://2023.splashcon.org/home/sle-2023):
   *16th ACM SIGPLAN International Conference on Software Language Engineering*,
   Cascais, Lisbon, Portugal, 23–24 October 2023
@@ -39,6 +40,7 @@ This section lists my involvement in scientific meetings since 2005.
 - [5225](https://cs.au.dk/about-us/aniversary):
   *Anniversary celebration: 52 and 25 years*,
   Aarhus University, Denmark, 26 May 2023
+  (visiting lecturer 1976–78, associate professor 1978–2004, head 1995–98)
 - *Modular Semantics Seminar*,
   University of Amsterdam, Amsterdam, 22 August 2023
   (presentation: *Languages for defining funcons – discussion*)
