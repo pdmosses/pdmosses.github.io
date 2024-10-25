@@ -16,9 +16,6 @@ description: "Peter's new homepage, implemented using the Congo theme for Hugo."
   }
 </style>
 
-I am a PC co-chair for [SLE 2024],
-co-located with [SPLASH] in Pasadena, California.
-
 ### Education and Affiliations
 
 I studied maths and computer science at Oxford, and completed my doctorate in 1975. After a postdoc at Oxford, I moved to Denmark, to a lectureship at [Aarhus][Aarhus University]. I moved back to the UK in 2005, to a chair at [Swansea][Swansea University]. I retired and became [emeritus][Professor Emeritus] in 2016, then moved to The Netherlands, where I am currently visiting [TU Delft].
