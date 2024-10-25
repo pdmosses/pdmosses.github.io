@@ -14,10 +14,10 @@ This section lists my involvement in scientific meetings since 2005.
   (Member)
 - [SLE '24](https://2024.splashcon.org/track/sle-2024/):
   *17th ACM SIGPLAN International Conference on Software Language Engineering*,
-  Pasadena, California, USA, October 2024 (PC co-chair)
+  Pasadena, California, USA, 20–21 October 2024 (PC co-chair)
 - [JENSFEST 2024](https://2024.splashcon.org/home/jensfest-2024/):
   This workshop celebrates the career and accomplishments of *[Jens Palsberg](https://web.cs.ucla.edu/~palsberg/)* on the occasion of his 60th birthday.
-  Pasadena, California, USA, October 2024
+  Pasadena, California, USA, 22 October 2024
   ([presentation](https://2024.splashcon.org/details/jensfest-2024-papers/6/Towards-Verification-of-a-Denotational-Semantics-of-Inheritance):
   *Towards Verification of a Denotational Semantics of Inheritance*)
 - [First Wolves Reunion](https://mcusercontent.com/93a9b46161a9dbb2b70b01db3/files/89f2b378-1aa0-0b30-756b-ac584e26b5e8/First_Wolves_Programme.05.pdf):
