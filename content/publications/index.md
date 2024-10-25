@@ -16,6 +16,12 @@ Lists of previous publications
 
 ## Latest publications
 
+- **[Towards Verification of a Denotational Semantics of Inheritance](https://doi.org/10.1145/3694848.3694852 "ACM Digital Library")** {{< icon "open-access" >}}  
+  in *JENSFEST 2024: Proceedings of the Workshop Dedicated to [Jens Palsberg](https://samueli.ucla.edu/people/jens-palsberg/ "UCLA home page") on the Occasion of His 60th Birthday* 
+
+- **[SLE '24: Proceedings of the 17th ACM SIGPLAN International Conference on Software Language Engineering](https://dl.acm.org/doi/10.1145/3687997 "ACM Digital Library")** {{< icon "open-access" >}}  
+  (editor, with 	Ralf Lämmel and Juliana Alves Pereira)
+
 - **[Online Name-Based Navigation for Software Meta-languages](https://dl.acm.org/doi/10.1145/3623476.3623528 "ACM Digital Library")** {{< icon "open-access" >}}  
   in *Proc. 16th ACM SIGPLAN Int. Conf. on Software Language Engineering (SLE '23)* 
 
