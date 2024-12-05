@@ -3,8 +3,8 @@ title: "Home"
 description: "Peter's new homepage, implemented using the Congo theme for Hugo."
 ---
 
-[Professor Emeritus] ([Computer Science], [Swansea University])  
-[Visitor] ([Programming Languages Group], [TU Delft])
+[Professor Emeritus] ([Computer Science, Swansea University])  
+[Visitor] ([Programming Languages Group], [Computer Science, TU Delft])
 
 <details>
 <summary><strong>Career overview</strong>
@@ -33,14 +33,11 @@ The main focus of my research since the 1980s has been on pragmatic aspects of s
 In the 1980s and 1990s, I also participated in research on [algebraic specification] of data types and software. I was the initial coordinator of [CoFI], the Common Framework Initiative, which designed the algebraic specification language [CASL]; and I was a chair of [IFIP Working Group 1.3] (on Foundations of System Specification).
 </details>
 
-[SLE 2024]:                       https://www.sleconf.org/2024/
-[SPLASH]:                         https://2024.splashcon.org
 [Professor Emeritus]:             https://www.swansea.ac.uk/staff/science/compsci/mosses-p-d/ "Staff page"
-[Computer Science]:               https://www.swansea.ac.uk/compsci/ "Home page"
-[Swansea University]:             https://www.swansea.ac.uk/ "Home page"
+[Computer Science, Swansea University]: https://www.swansea.ac.uk/compsci/ "Home page"
 [Visitor]:                        https://www.tudelft.nl/en/staff/p.d.mosses/ "Staff page"
 [Programming Languages Group]:    https://pl.ewi.tudelft.nl/ "Home page"
-[TU Delft]:                       https://www.tudelft.nl/en/ "Home page"
+[Computer Science, TU Delft]:     https://www.tudelft.nl/en/eemcs/the-faculty/departments/computer-science "Home page"
 [PLanCompS]:                      research/plancomps/
 [Denotational semantics]:         https://en.wikipedia.org/wiki/Denotational_semantics "Wikipedia"
 [SIS]:                            software/sis/
