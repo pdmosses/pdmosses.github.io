@@ -5,8 +5,10 @@ description: A modular variant of SOS (structural operational semantics).
 tags:
 - SOS
 - modularity
+- MSOS
 - labeled transitions
 - operational semantics
+- I-MSOS
 ---
 
 MSOS (Modular SOS, 1999–2016) is modular variant of SOS (structural operational semantics).
@@ -79,6 +81,28 @@ I-MSOS (Implicitly-Modular SOS) allows the use of conventional SOS notation in M
 specifications use explicit labels only for emitted information,
 and the label components for any contextual and mutable information are left implicit.
 
+> In contrast to a transition system specification in process algebra,
+> a structural operational semantics (SOS) of a programming language usually involves auxiliary entities:
+> stores, environments, etc.
+> When specifying SOS rules, particular auxiliary entities often need to be propagated unchanged
+> between premises and conclusions.
+> The standard technique is to make such propagation explicit, using variables.
+> However, referring to all entities that need to be propagated *unchanged* in each rule can be tedious,
+> and it hinders direct reuse of rules in different language descriptions.
+>
+> This paper proposes a new interpretation of SOS rules,
+> such that each auxiliary entity is *implicitly* propagated in all rules in which it is not mentioned.
+> The main benefits include significant notational simplification of SOS rules and much-improved reusability. > This new interpretation of SOS rules is based on the same foundations as Modular SOS,
+> but avoids the notational overhead of grouping auxiliary entities together in labels.
+>
+> After motivating and explaining implicit propagation,
+> the paper considers the foundations of SOS and Modular SOS specifications,
+> and defines the meaning of SOS specifications with implicit propagation
+> by translating them to Modular SOS.
+> It then shows how implicit propagation can simplify various rules found in the SOS literature.
+>
+> --- <cite>[Implicit Propagation in Structural Operational Semantics]</cite>
+
 The [CBS] meta-notation for component-based semantics incorporates an combination of I-MSOS and term rewriting.
 
 [PLanCompS]: ../plancomps/
@@ -87,3 +111,4 @@ The [CBS] meta-notation for component-based semantics incorporates an combinatio
 [preprint]: https://www.brics.dk/RS/99/54/BRICS-RS-99-54.pdf
 [MSOS in Prolog]: ../../software/msos-in-prolog/
 [Prolog MSOS Tool]: ../../software/prolog-msos-tool/
+[Implicit Propagation in Structural Operational Semantics]: https://doi.org/10.1016/j.entcs.2009.07.073

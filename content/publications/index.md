@@ -51,6 +51,10 @@ Lists of previous publications
   *JLAMP* (2019),
   *([preprint](../papers/Binsbergen2019ECBS))*
 
+- **[Implicit Propagation in Structural Operational Semantics](https://doi.org/10.1016/j.entcs.2009.07.073)** {{< icon "open-access" >}}  
+with Mark J. New  
+Electronic Notes in Theoretical Computer Science (2009)
+
 - **[Semantics and Algebraic Specification](https://www.springer.com/computer/foundations/book/978-3-642-04163-1)**  
   *Festschrift* (2009)  
   edited by [Jens Palsberg](https://www.cs.ucla.edu/~palsberg/)  
