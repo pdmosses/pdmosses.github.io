@@ -20,7 +20,7 @@ Some Agda libraries have been developed to support Scott-domains;
 but when using them, a domain is represented as a <em>pair</em> of a type of elements and other data;
 and a continuous function is represented as a <em>pair</em> of a function and a proof of its continuity.
 These representations give rise to undesirable notational overhead and obfuscation
-when specifying elements of domains in λ-notation.</p><p>As a novice Agda user, I developed a simple-minded workaround for this problem, reported in the paper
+when specifying elements of domains in λ-notation.</p><p>As a novice Agda user, I developed a lightweight workaround for this problem, reported in the paper
 <em><a href=https://doi.org/10.1145/3694848.3694852 title="ACM Digital Library" target=_blank rel=noreferrer>Towards Verification of a Denotational Semantics of Inheritance</a></em>.
 However, I would like to find a more principled solution.
 Participation of expert Agda users will surely be needed&mldr;</p><h2 id=a-proposed-approach class="relative group">A Proposed Approach <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style=text-decoration-line:none!important href=#a-proposed-approach aria-label=Anchor>#</a></span></h2><p>The idea is to allow named types to be declared to be domains.
