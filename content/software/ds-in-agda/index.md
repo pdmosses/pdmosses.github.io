@@ -66,7 +66,9 @@ The experiments currently include denotational semantics of
 [PCF](https://pdmosses.github.io/xds-agda/PCF/), and
 [core Scheme](https://pdmosses.github.io/xds-agda/Scheme/).
 
-***Comments and suggestions for improvement are welcome!***
+{{< alert >}}
+Comments and suggestions for improvement are welcome!
+{{< /alert >}}
 
 [^1]:
     A denotational semantics of a programming language maps programs and their phrases
