@@ -29,7 +29,7 @@ and a continuous function is represented as a *pair* of a function and a proof o
 These representations give rise to undesirable notational overhead and obfuscation
 when specifying elements of domains in λ-notation.
 
-As a novice Agda user, I developed a simple-minded workaround for this problem, reported in the paper
+As a novice Agda user, I developed a lightweight workaround for this problem, reported in the paper
 *[Towards Verification of a Denotational Semantics of Inheritance](https://doi.org/10.1145/3694848.3694852 "ACM Digital Library")*.
 However, I would like to find a more principled solution.
 Participation of expert Agda users will surely be needed...
