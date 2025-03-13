@@ -66,7 +66,7 @@ The experiments currently include denotational semantics of
 [PCF](https://pdmosses.github.io/xds-agda/PCF/), and
 [core Scheme](https://pdmosses.github.io/xds-agda/Scheme/).
 
-{{< alert >}}
+{{< alert "comment" >}}
 Comments and suggestions for improvement are welcome!
 {{< /alert >}}
 
