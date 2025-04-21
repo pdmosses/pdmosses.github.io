@@ -67,5 +67,5 @@ Electronic Notes in Theoretical Computer Science (2009)
 - **SIS – Semantics Implementation System**  
   *[Reference Manual](../papers/Mosses1979SRM.pdf)* (1979),
   *[Tested Examples](../papers/Mosses1979STE.pdf)* (1979)  
-  copied from the *[Semantics Library](https://homepages.cs.ncl.ac.uk/cliff.jones/semantics-library/)*
+  copied from the *[Semantics Library](http://homepages.cs.ncl.ac.uk/cliff.jones/semantics-library/)*
   of [Cliff B Jones](https://homepages.cs.ncl.ac.uk/cliff.jones/)
