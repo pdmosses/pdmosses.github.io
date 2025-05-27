@@ -29,17 +29,21 @@ and a continuous function is represented as a *pair* of a function and a proof o
 These representations give rise to undesirable notational overhead and obfuscation
 when specifying elements of domains in λ-notation.
 
-As a novice Agda user, I developed a lightweight workaround for this problem, reported in the paper
-*[Towards Verification of a Denotational Semantics of Inheritance](https://doi.org/10.1145/3694848.3694852 "ACM Digital Library")*.
-However, I would like to find a more principled solution.
-Participation of expert Agda users will surely be needed...
+As a novice Agda user, I developed a lightweight workaround for this problem, reported in 
+*[Towards Verification of a Denotational Semantics of Inheritance](https://doi.org/10.1145/3694848.3694852 "ACM Digital Library")* (2024) and
+*[Lightweight Agda Formalization of Denotational Semantics](https://msp.cis.strath.ac.uk/types2025/abstracts/TYPES2025_paper11.pdf "PDF")* (2025).
+
+However, it would clearly be better to develop a more principled solution,
+based on an implementation of
+*[Synthetic Domain Theory](https://ncatlab.org/nlab/show/synthetic+domain+theory "ncatlab page") (SDT)* in Agda.
+The assistance of expert Agda users will surely be needed...
 
 ## A Proposed Approach
 
-The idea is to allow named types to be declared to be domains.
+The idea is to allow named types to be declared to be domains (or predomains).
 To avoid extending the syntax of Agda, it has been suggested to me that
 a universe `Domain` (hierarchy) could be added as built-in,
-but that would require extending the Agda compiler.
+although that would require extending the Agda compiler.
 
 When declared to be a domain, an Agda type is to have a partial order with a least element ⊥,
 closed (at least) under limits of monotone ascending ω-chains.
@@ -52,7 +56,7 @@ in terms of flat domains (lifted sets) and built-in domain constructors
 The type of all functions from an ordinary type to a domain may also be treated as a domain,
 implicitly ordered pointwise.
 
-Recursive references to domains are not to require explicit guards,
+Recursive references to domains are *not* to require guards,
 and type checking is to allow the isomorphisms between domains and their definitions
 to be left implicit when expressing elements of domains in λ-notation.
 
