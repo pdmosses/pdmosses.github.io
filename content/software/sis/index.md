@@ -3,6 +3,7 @@ title: SIS
 date: 1981-12-31
 description: A system for running programs according to their denotational semantics.
 tags:
+- SIS
 - denotational semantics
 - executable semantics
 - partial evaluation
