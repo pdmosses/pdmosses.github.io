@@ -9,8 +9,11 @@ This section lists my involvement in scientific meetings since 2005.
 
 ## 2025
 
+- [IFIP WG 1.3](http://ifipwg13.cs.ovgu.de "Home page"): *Working Group Meeting on Foundations of System Specification*, Glasgow, Scotland, 13–15 June 2025 (emeritus member)
 - [TYPES 2025](https://msp.cis.strath.ac.uk/types2025/):
-  *31st International Conference on Types for Proofs and Programs*, Glasgow, Scotland, 9–13 June 2025 (presentation: *Lightweight Agda Formalization of Denotational Semantics*)
+  *31st International Conference on Types for Proofs and Programs*, Glasgow, Scotland, 9–13 June 2025
+  ([paper](https://msp.cis.strath.ac.uk/types2025/abstracts/TYPES2025_paper11.pdf "PDF"):
+  *Lightweight Agda Formalization of Denotational Semantics*)
 
 ## 2024
 
