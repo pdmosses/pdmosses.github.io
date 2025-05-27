@@ -65,7 +65,8 @@ Electronic Notes in Theoretical Computer Science (2009)
   [![img](../img/festschrift-cover.jpg)](https://www.springer.com/computer/foundations/book/978-3-642-04163-1)  
 
 - **SIS – Semantics Implementation System**  
-  *[Reference Manual](../papers/Mosses1979SRM.pdf)* (1979),
-  *[Tested Examples](../papers/Mosses1979STE.pdf)* (1979)  
-  copied from the *[Semantics Library](http://homepages.cs.ncl.ac.uk/cliff.jones/semantics-library/)*
-  of [Cliff B Jones](https://homepages.cs.ncl.ac.uk/cliff.jones/)
+  *[Reference Manual](../papers/Mosses1979SRM.pdf "PDF")* (1979),
+  *[Tested Examples](../papers/Mosses1979STE.pdf "PDF")* (1979),
+  both copied from the *[Semantics Library](http://homepages.cs.ncl.ac.uk/cliff.jones/semantics-library/)*
+  of [Cliff B Jones](https://homepages.cs.ncl.ac.uk/cliff.jones/)    
+  *[Case Study](https://inria.hal.science/hal-04716568/file/INRIA1978_333_pdf_impression.pdf "PDF")* (1978) by Veronique Donzeau-Gouge, Bernard Lang, and Gilles Kahn, IRIA-RR-330
