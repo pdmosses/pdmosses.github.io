@@ -35,14 +35,21 @@ This led to the development of the [action semantics] framework,
 which uses a combination of denotational and operational semantics.
 
 My [dissertation] (1975) describes an early version of SIS.
-The SIS code for a denotational semantics of the ASPLE mini-language
-by Veronique Donzeau-Gouge, Bernard Lang, and Gilles Kahn
-was published as an [IRIA research report]  (1978),
-and used in the successful bid for the DoD contract to develop the Ada language.
 The SIS [Reference Manual] and [Tested Examples] document the final version (1979).
+
+The SIS code for a denotational semantics of the *ASPLE mini-language*,
+by Veronique Donzeau-Gouge, Bernard Lang, and Gilles Kahn,
+was published as an [IRIA research report] (1978),
+and used in the successful bid for the DoD contract to develop the Ada language.
+
+*[Experimentation with using SIS for compiler generation]* was reported in a SIGPLAN article by
+James Bodwin, Laurette Bradley, Kohji Kanda, Diane Litle, and Uwe Pleban (1982).
+Peter Lee and Uwe Pleban subsequently developed a *[realistic compiler generator]*, published at POPL (1987). It is based on high-level semantics, which is related to [action semantics].
 
 [dissertation]: https://ora.ox.ac.uk/objects/uuid:b590173b-0a86-40c0-8e75-6a6fc5035c43
 [IRIA research report]: https://inria.hal.science/hal-04716568/file/INRIA1978_333_pdf_impression.pdf "PDF"
 [Reference Manual]: ../../papers/Mosses1979SRM.pdf "PDF"
 [Tested Examples]: ../../papers/Mosses1979STE.pdf "PDF"
 [action semantics]: ../../research/action-semantics/
+[Experimentation with using SIS for compiler generation]: https://doi.org/10.1145/872726.806997 "ACM DL"
+[realistic compiler generator]: https://doi.org/10.1145/41625.41651 "ACM DL"
