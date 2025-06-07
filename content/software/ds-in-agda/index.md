@@ -66,9 +66,9 @@ Some experiments with using a simplified version[^2] of the above approach can b
 browsed on web pages or PDFs at https://pdmosses.github.io/xds-agda/.
 
 The experiments currently include denotational semantics of
-[the untyped λ-calculus](https://pdmosses.github.io/xds-agda/ULC/),
-[PCF](https://pdmosses.github.io/xds-agda/PCF/), and
-[core Scheme](https://pdmosses.github.io/xds-agda/Scheme/).
+[the untyped λ-calculus](https://pdmosses.github.io/xds-agda/ULC.html),
+[PCF](https://pdmosses.github.io/xds-agda/PCF.html), and
+[core Scheme](https://pdmosses.github.io/xds-agda/Scheme.html).
 
 {{< alert "comment" >}}
 Comments and suggestions for improvement are welcome!
