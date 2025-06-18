@@ -13,7 +13,7 @@ This section lists my involvement in scientific meetings since 2005.
 - [TYPES 2025](https://msp.cis.strath.ac.uk/types2025/):
   *31st International Conference on Types for Proofs and Programs*, Glasgow, Scotland, 9–13 June 2025
   ([paper](https://msp.cis.strath.ac.uk/types2025/abstracts/TYPES2025_paper11.pdf "PDF"):
-  *Lightweight Agda Formalization of Denotational Semantics*)
+  *Lightweight Agda Formalization of Denotational Semantics*, [handout](TYPES-2025/TYPES2025-handout.pdf "PDF"))
 
 ## 2024
 

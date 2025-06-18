@@ -16,6 +16,9 @@ Lists of previous publications
 
 ## Latest publications
 
+- **[Lightweight Agda Formalization of Denotational Semantics](https://msp.cis.strath.ac.uk/types2025/abstracts/TYPES2025_paper11.pdf "PDF")** {{< icon "open-access" >}}  
+  in *TYPES 2025: Proceedings of the 31st International Conference on Types for Proofs and Programs*
+
 - **[Towards Verification of a Denotational Semantics of Inheritance](https://doi.org/10.1145/3694848.3694852 "ACM Digital Library")** {{< icon "open-access" >}}  
   in *JENSFEST 2024: Proceedings of the Workshop Dedicated to [Jens Palsberg](https://samueli.ucla.edu/people/jens-palsberg/ "UCLA home page") on the Occasion of His 60th Birthday*  
   {{< button href="https://www.youtube.com/watch?v=LQwVVTc5llI" >}}
