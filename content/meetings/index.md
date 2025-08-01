@@ -9,6 +9,16 @@ This section lists my involvement in scientific meetings since 2005.
 
 ## 2025
 
+### Future
+
+- [OlivierFest 2025](https://conf.researchr.org/home/icfp-splash-2025/olivierfest-2025):
+  This workshop celebrates the career and accomplishments of *[Olivier Danvy](https://en.wikipedia.org/wiki/Olivier_Danvy)*.
+  Singapore, 14–15 October 2025
+  ([paper](https://conf.researchr.org/details/icfp-splash-2025/olivierfest-2025-papers/10/Compositional-Semantics-for-eval-in-Scheme):
+  *Compositional Semantics for eval in Scheme*)
+
+### Past
+
 - [IFIP WG 1.3](http://ifipwg13.cs.ovgu.de "Home page"): *Working Group Meeting on Foundations of System Specification*, Glasgow, Scotland, 13–15 June 2025 (emeritus member)
 - [TYPES 2025](https://msp.cis.strath.ac.uk/types2025/):
   *31st International Conference on Types for Proofs and Programs*, Glasgow, Scotland, 9–13 June 2025
