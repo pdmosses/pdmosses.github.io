@@ -14,7 +14,7 @@ This section lists my involvement in scientific meetings since 2005.
 - [OlivierFest 2025](https://conf.researchr.org/home/icfp-splash-2025/olivierfest-2025):
   This workshop celebrates the career and accomplishments of *[Olivier Danvy](https://en.wikipedia.org/wiki/Olivier_Danvy)*.
   Singapore, 14–15 October 2025
-  ([paper](https://conf.researchr.org/details/icfp-splash-2025/olivierfest-2025-papers/10/Compositional-Semantics-for-eval-in-Scheme):
+  (PC member; [paper](https://conf.researchr.org/details/icfp-splash-2025/olivierfest-2025-papers/10/Compositional-Semantics-for-eval-in-Scheme):
   *Compositional Semantics for eval in Scheme*)
 
 ### Past
