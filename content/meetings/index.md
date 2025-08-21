@@ -11,10 +11,16 @@ This section lists my involvement in scientific meetings since 2005.
 
 ### Future
 
+- [Scheme 2025](https://conf.researchr.org/home/icfp-splash-2025/scheme-2025):
+  26th ACM SIGPLAN International Workshop on Scheme and Functional Programming.
+  Singapore, 16 October 2025
+  ([abstract](https://conf.researchr.org/details/icfp-splash-2025/scheme-2025-papers/7/Checking-a-Denotational-Semantics-of-Scheme-in-Agda):
+  *Checking a Denotational Semantics of Scheme in Agda*)
+
 - [OlivierFest 2025](https://conf.researchr.org/home/icfp-splash-2025/olivierfest-2025):
   This workshop celebrates the career and accomplishments of *[Olivier Danvy](https://en.wikipedia.org/wiki/Olivier_Danvy)*.
   Singapore, 14–15 October 2025
-  (PC member; [paper](https://conf.researchr.org/details/icfp-splash-2025/olivierfest-2025-papers/10/Compositional-Semantics-for-eval-in-Scheme):
+  (PC member; [abstract](https://conf.researchr.org/details/icfp-splash-2025/olivierfest-2025-papers/10/Compositional-Semantics-for-eval-in-Scheme):
   *Compositional Semantics for eval in Scheme*)
 
 ### Past
