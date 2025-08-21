@@ -12,7 +12,7 @@ This section lists my involvement in scientific meetings since 2005.
 ### Future
 
 - [Scheme 2025](https://conf.researchr.org/home/icfp-splash-2025/scheme-2025):
-  26th ACM SIGPLAN International Workshop on Scheme and Functional Programming.
+  *26th ACM SIGPLAN International Workshop on Scheme and Functional Programming*,
   Singapore, 16 October 2025
   ([abstract](https://conf.researchr.org/details/icfp-splash-2025/scheme-2025-papers/7/Checking-a-Denotational-Semantics-of-Scheme-in-Agda):
   *Checking a Denotational Semantics of Scheme in Agda*)
