@@ -10,8 +10,9 @@ tags:
 
 This project (started in 2024) aims to make it straightforward to take an existing
 denotational semantics of a programming language,
-and use Agda to check its well-formedness,
-as well to prove properties of individual programs.
+and use the Agda type-checker to test its well-formedness.
+A secondary aim is to test whether the denotations of individual programs have
+expected properties.
 
 ## The Problem
 
@@ -62,13 +63,13 @@ to be left implicit when expressing elements of domains in λ-notation.
 
 ## Experiments
 
-Some experiments with using a simplified version[^2] of the above approach can be
-browsed on web pages or PDFs at https://pdmosses.github.io/xds-agda/.
-
+Some experiments with using a simplified version[^2] of the above approach are
+listed in web pages and PDFs at https://pdmosses.github.io/xds-agda/.
 The experiments currently include denotational semantics of
-[the untyped λ-calculus](https://pdmosses.github.io/xds-agda/ULC.html),
-[PCF](https://pdmosses.github.io/xds-agda/PCF.html), and
-[core Scheme](https://pdmosses.github.io/xds-agda/Scheme.html).
+[the untyped λ-calculus](https://pdmosses.github.io/xds-agda/LC/),
+[PCF](https://pdmosses.github.io/xds-agda/PCF/), and
+[Scm](https://pdmosses.github.io/xds-agda/Scm/)
+(a simple sublanguage of Scheme).
 
 {{< alert "comment" >}}
 Comments and suggestions for improvement are welcome!
