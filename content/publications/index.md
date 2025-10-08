@@ -16,6 +16,14 @@ Lists of previous publications
 
 ## Latest publications
 
+- **[Checking a Denotational Semantics of Scheme in Agda](https://doi.org/10.1145/3759537.3762694 "ACM Digital Library")** {{< icon "open-access" >}}  
+  in *Scheme ’25: Proceedings of the 26th ACM SIGPLAN International Workshop on Scheme and Functional Programming*  
+  *[preliminary publication](../papers/Mosses2025CDS/scheme25-final.pdf)*
+
+- **[A Compositional Semantics for `eval` in Scheme](https://doi.org/10.1145/3759427.3760369 "ACM Digital Library")** {{< icon "open-access" >}}  
+  in *OLIVIERFEST ’25: Proceedings of the Workshop Dedicated to [Olivier Danvy](https://dl.acm.org/doi/10.1145/3759427#secAbs "ACM Digital Library") on the Occasion of His 64th Birthday*  
+  *[preliminary publication](../papers/Mosses2025CSE/olivierfest-final.pdf)*
+
 - **[Lightweight Agda Formalization of Denotational Semantics](https://msp.cis.strath.ac.uk/types2025/abstracts/TYPES2025_paper11.pdf "PDF")** {{< icon "open-access" >}}  
   in *TYPES 2025: Proceedings of the 31st International Conference on Types for Proofs and Programs*
 
@@ -24,20 +32,6 @@ Lists of previous publications
 
 - **[SLE '24: Proceedings of the 17th ACM SIGPLAN International Conference on Software Language Engineering](https://dl.acm.org/doi/10.1145/3687997 "ACM Digital Library")** {{< icon "open-access" >}}  
   (editor, with 	Ralf Lämmel and Juliana Alves Pereira)
-
-- **[Online Name-Based Navigation for Software Meta-languages](https://dl.acm.org/doi/10.1145/3623476.3623528 "ACM Digital Library")** {{< icon "open-access" >}}  
-  in *Proc. 16th ACM SIGPLAN Int. Conf. on Software Language Engineering (SLE '23)* 
-
-- **[Using Spoofax to Support Online Code Navigation](https://doi.org/10.4230/OASIcs.EVCS.2023.21 "Dagstuhl")** {{< icon "open-access" >}}  
-  in *Eelco Visser Commemorative Symposium (EVCS 2023)*
-
-- **[Eelco Visser Commemorative Symposium (EVCS 2023)](https://www.dagstuhl.de/dagpub/978-3-95977-267-9 "Dagstuhl")** {{< icon "open-access" >}}  
-  Dagstuhl OASIcs volume 109,  2023  
-  (editor, with 	Ralf Lämmel and Friedrich Steimann)
-
-- **[Intrinsically-typed Definitional Interpreters à la Carte](https://doi.org/10.1145/3563355 "ACM Digital Library")** {{< icon "open-access" >}}  
-  *Proc. ACM Program. Lang.* 6(OOPSLA2): 1903-1932, 2022  
-  (with Cas van der Rest, Casper Bach Poulsen, Arjen Rouvoet, and Eelco Visser)
 
 ## Highlights
 
