@@ -9,8 +9,6 @@ This section lists my involvement in scientific meetings since 2005.
 
 ## 2025
 
-### Future
-
 - [AIM-XLI](https://wiki.portal.chalmers.se/agda/Main/AIMXLI "Wiki"): *41st Agda Implementors' Meeting*, Angers, France, 24–29 November 2025
 
 - [Scheme 2025](https://conf.researchr.org/home/icfp-splash-2025/scheme-2025):
@@ -24,8 +22,6 @@ This section lists my involvement in scientific meetings since 2005.
   Singapore, 14–15 October 2025
   (PC member; [abstract](https://conf.researchr.org/details/icfp-splash-2025/olivierfest-2025-papers/10/A-Compositional-Semantics-for-eval-in-Scheme):
   *A Compositional Semantics for eval in Scheme*)
-
-### Past
 
 - [IFIP WG 1.3](http://ifipwg13.cs.ovgu.de "Home page"): *Working Group Meeting on Foundations of System Specification*, Glasgow, Scotland, 13–15 June 2025 (emeritus member)
 - [TYPES 2025](https://msp.cis.strath.ac.uk/types2025/):
