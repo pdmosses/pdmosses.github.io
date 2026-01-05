@@ -10,7 +10,7 @@ tags:
 
 # About Agda-Material
 
-Agda-Material supports **generation of websites** with
+[Agda-Material] supports **generation of websites** with
 **highlighted, hyperlinked listings** of (plain or literate) Agda source code.
 
 See the **[README]** page for how to create a repository for using
@@ -86,5 +86,6 @@ The websites have the following features.
     large Agda modules. Moreover, it appears that some ASCII characters
     do not produce the expected results (even when escaped by `\`).
 
-  [README]: https://pdmosses.github.io/agda-material/0.1/
-  [User Guide]: https://pdmosses.github.io/agda-material/0.1/user-guide/
+[Agda-Material]: https://pdmosses.github.io/agda-material/0.1/about/
+[README]: https://pdmosses.github.io/agda-material/0.1/
+[User Guide]: https://pdmosses.github.io/agda-material/0.1/user-guide/
