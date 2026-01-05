@@ -7,6 +7,15 @@ cascade:
 ---
 This section lists my involvement in scientific meetings since 2005.
 
+- [AIM-XLII](https://wiki.portal.chalmers.se/agda/Main/AIMXLII "Wiki"):
+  *42nd Agda Implementors' Meeting*,
+  Leuven, Belgium, 13–18 April 2026
+
+- [FP Dag](https://fpday26.cs.ru.nl):
+  *Dutch Functional Programming Day*,
+  Nijmegen, Netherlands, 9 January 2026
+  (talk: *[Lightweight Formalisation of Denotational Semantics in Agda](https://fpday26.cs.ru.nl#:~:text=Agda.-,Lightweight,Mosses,-We)*)
+
 ## 2025
 
 - [AIM-XLI](https://wiki.portal.chalmers.se/agda/Main/AIMXLI "Wiki"):
