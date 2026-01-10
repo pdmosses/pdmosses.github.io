@@ -6,6 +6,16 @@ description: "Peter's new homepage, implemented using the Congo theme for Hugo."
 [Professor Emeritus] ([Computer Science, Swansea University])  
 [Visitor] ([Programming Languages Group], [Computer Science, TU Delft])
 
+----
+
+{{< alert >}}
+[GPCE 2026](https://2026.ecoop.org/home/gpce-2026):
+  *25th International Conference on Generative Programming: Concepts & Experiences*, Brussels, Belgium, 29 June 2026  
+  **Paper deadline: Friday 6 March 2026**
+{{< /alert >}}
+
+----
+
 <details>
 <summary><strong>Career overview</strong>
 </summary>
