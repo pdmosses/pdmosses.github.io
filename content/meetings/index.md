@@ -7,6 +7,10 @@ cascade:
 ---
 This section lists my involvement in scientific meetings since 2005.
 
+- [GPCE 2026](https://2026.ecoop.org/home/gpce-2026):
+  *25th International Conference on Generative Programming: Concepts & Experiences*, Brussels, Belgium, 29 June 2026
+  (PC member)
+
 - [AIM-XLII](https://wiki.portal.chalmers.se/agda/Main/AIMXLII "Wiki"):
   *42nd Agda Implementors' Meeting*,
   Leuven, Belgium, 13–18 April 2026
@@ -14,7 +18,7 @@ This section lists my involvement in scientific meetings since 2005.
 - [FP Dag](https://fpday26.cs.ru.nl):
   *Dutch Functional Programming Day*,
   Nijmegen, Netherlands, 9 January 2026
-  (talk: *[Lightweight Formalisation of Denotational Semantics in Agda](https://fpday26.cs.ru.nl#:~:text=Agda.-,Lightweight,Mosses,-We)*)
+  (talk: *[Lightweight Formalisation of Denotational Semantics in Agda](https://fpday26.cs.ru.nl#:~:text=Agda.-,Lightweight,Mosses,-We), [slides](FPDay-2026/FPDay-slides.pdf)*)
 
 ## 2025
 
