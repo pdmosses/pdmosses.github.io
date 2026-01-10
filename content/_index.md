@@ -6,16 +6,6 @@ description: "Peter's new homepage, implemented using the Congo theme for Hugo."
 [Professor Emeritus] ([Computer Science, Swansea University])  
 [Visitor] ([Programming Languages Group], [Computer Science, TU Delft])
 
-----
-
-{{< alert >}}
-[GPCE 2026](https://2026.ecoop.org/home/gpce-2026):
-  *25th International Conference on Generative Programming: Concepts & Experiences*, Brussels, Belgium, 29 June 2026  
-  **Paper deadline: Friday 6 March 2026**
-{{< /alert >}}
-
-----
-
 <details>
 <summary><strong>Career overview</strong>
 </summary>
@@ -42,6 +32,14 @@ The main focus of my research since the 1980s has been on pragmatic aspects of s
 
 In the 1980s and 1990s, I also participated in research on [algebraic specification] of data types and software. I was the initial coordinator of [CoFI], the Common Framework Initiative, which designed the algebraic specification language [CASL]; and I was a chair of [IFIP Working Group 1.3] (on Foundations of System Specification).
 </details>
+
+----
+
+{{< alert >}}
+[GPCE 2026](https://2026.ecoop.org/home/gpce-2026):
+  *25th International Conference on Generative Programming: Concepts & Experiences*, Brussels, Belgium, 29 June 2026  
+  **Paper deadline: Friday 6 March 2026**
+{{< /alert >}}
 
 [Professor Emeritus]:             https://www.swansea.ac.uk/staff/science/compsci/mosses-p-d/ "Staff page"
 [Computer Science, Swansea University]: https://www.swansea.ac.uk/compsci/ "Home page"
