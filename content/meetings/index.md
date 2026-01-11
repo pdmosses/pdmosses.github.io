@@ -25,7 +25,7 @@ This section lists my involvement in scientific meetings since 2005.
 - [AIM-XLI](https://wiki.portal.chalmers.se/agda/Main/AIMXLI "Wiki"):
   *41st Agda Implementors' Meeting*,
   Angers, France, 24–29 November 2025
-  (talk: *Postulating Domains for Lightweight Formalization of Denotational Semantics*;
+  (talk: *[Postulating Domains for Lightweight Formalization of Denotational Semantics](https://wiki.portal.chalmers.se/agda/Main/AIMXLI#:~:text=proofs.-,Postulating,Mosses)*;
   discussion: *[Generated websites for Agda libraries](AIM-XLI/AIM-XLI-HTML.pdf)*)
 
 - [Scheme 2025](https://conf.researchr.org/home/icfp-splash-2025/scheme-2025):
