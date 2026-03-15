@@ -35,12 +35,6 @@ In the 1980s and 1990s, I also participated in research on [algebraic specificat
 
 ----
 
-{{< alert >}}
-[GPCE 2026](https://2026.ecoop.org/home/gpce-2026):
-  *25th International Conference on Generative Programming: Concepts & Experiences*, Brussels, Belgium, 29 June 2026  
-  **Paper deadline (EXTENDED): Thursday 12 March 2026 (AoE)**
-{{< /alert >}}
-
 [Professor Emeritus]:             https://www.swansea.ac.uk/staff/science/compsci/mosses-p-d/ "Staff page"
 [Computer Science, Swansea University]: https://www.swansea.ac.uk/compsci/ "Home page"
 [Visitor]:                        https://www.tudelft.nl/en/staff/p.d.mosses/ "Staff page"
