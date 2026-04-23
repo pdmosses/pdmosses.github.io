@@ -7,14 +7,15 @@ cascade:
 ---
 This section lists my involvement in scientific meetings since 2005.
 
+- [MFPS 2026](https://ul-fmf.github.io/mfps-sstt-2026//mfps/):
+  *42nd Conference on Mathematical Foundations of Programming Semantics (MFPS XLII)*, Ljubljana, Slovenia, 1–3 June 2026
+  (paper: *Mechanising Denotational Semantics in Agda*, with [Jesper Cockx](https://jesper.sikanda.be) and [Bernhard Reus](https://profiles.sussex.ac.uk/p115097-bernhard-reus/))
 - [GPCE 2026](https://2026.ecoop.org/home/gpce-2026):
   *25th International Conference on Generative Programming: Concepts & Experiences*, Brussels, Belgium, 29 June 2026
   (PC member)
-
 - [AIM-XLII](https://wiki.portal.chalmers.se/agda/Main/AIMXLII "Wiki"):
   *42nd Agda Implementors' Meeting*,
   Leuven, Belgium, 13–18 April 2026
-
 - [FP Dag](https://fpday26.cs.ru.nl):
   *Dutch Functional Programming Day*,
   Nijmegen, Netherlands, 9 January 2026
@@ -27,19 +28,16 @@ This section lists my involvement in scientific meetings since 2005.
   Angers, France, 24–29 November 2025
   (talk: *[Postulating Domains for Lightweight Formalization of Denotational Semantics](https://wiki.portal.chalmers.se/agda/Main/AIMXLI#:~:text=proofs.-,Postulating,Mosses,-For)*;
   discussion: *[Generated websites for Agda libraries](AIM-XLI/AIM-XLI-HTML.pdf)*)
-
 - [Scheme 2025](https://conf.researchr.org/home/icfp-splash-2025/scheme-2025):
   *26th ACM SIGPLAN International Workshop on Scheme and Functional Programming*,
   Singapore, 16 October 2025
   ([abstract](https://conf.researchr.org/details/icfp-splash-2025/scheme-2025-papers/7/Checking-a-Denotational-Semantics-of-Scheme-in-Agda):
   *Checking a Denotational Semantics of Scheme in Agda*)
-
 - [OlivierFest 2025](https://conf.researchr.org/home/icfp-splash-2025/olivierfest-2025):
   This workshop celebrates the career and accomplishments of *[Olivier Danvy](https://en.wikipedia.org/wiki/Olivier_Danvy)*.
   Singapore, 14–15 October 2025
   (PC member; [abstract](https://conf.researchr.org/details/icfp-splash-2025/olivierfest-2025-papers/10/A-Compositional-Semantics-for-eval-in-Scheme):
   *A Compositional Semantics for eval in Scheme*)
-
 - [IFIP WG 1.3](http://ifipwg13.cs.ovgu.de "Home page"): *Working Group Meeting on Foundations of System Specification*, Glasgow, Scotland, 13–15 June 2025 (emeritus member)
 - [TYPES 2025](https://msp.cis.strath.ac.uk/types2025/):
   *31st International Conference on Types for Proofs and Programs*, Glasgow, Scotland, 9–13 June 2025
