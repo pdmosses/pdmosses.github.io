@@ -9,7 +9,7 @@ This section lists my involvement in scientific meetings since 2005.
 
 - [MFPS 2026](https://ul-fmf.github.io/mfps-sstt-2026//mfps/):
   *42nd Conference on Mathematical Foundations of Programming Semantics (MFPS XLII)*, Ljubljana, Slovenia, 1–3 June 2026
-  (paper: *Mechanising Denotational Semantics in Agda*, with [Jesper Cockx](https://jesper.sikanda.be) and [Bernhard Reus](https://profiles.sussex.ac.uk/p115097-bernhard-reus/))
+  ([paper](https://ul-fmf.github.io/mfps-sstt-2026/files/pdfs/mfps/MFPS26-17.pdf): *Mechanising Denotational Semantics in Agda*, with [Jesper Cockx](https://jesper.sikanda.be) and [Bernhard Reus](https://profiles.sussex.ac.uk/p115097-bernhard-reus/); [code](https://pdmosses.github.io/mfps2026-agda/))
 - [GPCE 2026](https://2026.ecoop.org/home/gpce-2026):
   *25th International Conference on Generative Programming: Concepts & Experiences*, Brussels, Belgium, 29 June 2026
   (PC member)
