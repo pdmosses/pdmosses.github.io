@@ -30,50 +30,40 @@ and a continuous function is represented as a *pair* of a function and a proof o
 These representations give rise to undesirable notational overhead and obfuscation
 when specifying elements of domains in λ-notation.
 
-As a novice Agda user, I developed a lightweight workaround for this problem, reported in 
-*[Towards Verification of a Denotational Semantics of Inheritance](https://doi.org/10.1145/3694848.3694852 "ACM Digital Library")* (2024) and
-*[Lightweight Agda Formalization of Denotational Semantics](https://msp.cis.strath.ac.uk/types2025/abstracts/TYPES2025_paper11.pdf "PDF")* (2025).
+## Experiments
+
+As a novice Agda user, I experimented with a lightweight workaround for this problem, reported in 
+*[Towards Verification of a Denotational Semantics of Inheritance](https://doi.org/10.1145/3694848.3694852 "ACM Digital Library")* (JENSFEST 2024),
+*[Lightweight Agda Formalization of Denotational Semantics](https://msp.cis.strath.ac.uk/types2025/abstracts/TYPES2025_paper11.pdf "PDF")* (TYPES 2025),
+*[Checking a Denotational Semantics of Scheme in Agda](https://doi.org/10.1145/3759537.3762694 "ACM Digital Library")* (SCHEME 2025), and
+*[A Compositional Semantics for `eval` in Scheme](https://doi.org/10.1145/3759427.3760369 "ACM Digital Library") *(OlivierFest 2025).
+
+Some experiments with using a simplified version[^2] of the above approach are
+documented at https://pdmosses.github.io/xds-agda/.
+The experiments currently include Agda formalizations of the denotational semantics of
+[the untyped λ-calculus](https://pdmosses.github.io/xds-agda/LC/),
+[PCF](https://pdmosses.github.io/xds-agda/PCF/), and
+[Scm](https://pdmosses.github.io/xds-agda/Scm/)
+(a simple sublanguage of Scheme).
+These experiments are reported in
+*[Mechanising Denotational Semantics in Agda*](https://ul-fmf.github.io/mfps-sstt-2026/files/pdfs/mfps/MFPS26-17.pdf), with [Jesper Cockx](https://jesper.sikanda.be) and [Bernhard Reus](https://profiles.sussex.ac.uk/p115097-bernhard-reus/) (MFPS 2026),
+see the accompanying [website](https://pdmosses.github.io/mfps2026-agda/).
+
+
+{{< alert "comment" >}}
+Comments and suggestions for improvement are welcome!
+{{< /alert >}}
+
+The lightweight approach simply assumed that all Agda types are Scott-domains,
+and that all Agda functions have fixed points.
+Such assumptions are obviously unsound,
+but the Agda proof assistant accepted them,
+and their unsoundness did not affect checking definitions for well-formedness.
 
 However, it would clearly be better to develop a more principled solution,
 based on an implementation of
 *[Synthetic Domain Theory](https://ncatlab.org/nlab/show/synthetic+domain+theory "ncatlab page") (SDT)* in Agda.
 The assistance of expert Agda users will surely be needed...
-
-## A Proposed Approach
-
-The idea is to allow named types to be declared to be domains (or predomains).
-To avoid extending the syntax of Agda, it has been suggested to me that
-a universe `Domain` (hierarchy) could be added as built-in,
-although that would require extending the Agda compiler.
-
-When declared to be a domain, an Agda type is to have a partial order with a least element ⊥,
-closed (at least) under limits of monotone ascending ω-chains.
-All functions between domains are to be Scott-continuous, preserving the partial order and limits;
-the limit of the ascending Kleene chain of an endofunction on a domain is then its least fixed point.
-
-Groups of Agda types declared to be domains are to be definable (up to isomorphism)
-in terms of flat domains (lifted sets) and built-in domain constructors
-(including function domains, Cartesian products, sum domains, lifted domains).
-The type of all functions from an ordinary type to a domain may also be treated as a domain,
-implicitly ordered pointwise.
-
-Recursive references to domains are *not* to require guards,
-and type checking is to allow the isomorphisms between domains and their definitions
-to be left implicit when expressing elements of domains in λ-notation.
-
-## Experiments
-
-Some experiments with using a simplified version[^2] of the above approach are
-listed in web pages and PDFs at https://pdmosses.github.io/xds-agda/.
-The experiments currently include denotational semantics of
-[the untyped λ-calculus](https://pdmosses.github.io/xds-agda/LC/),
-[PCF](https://pdmosses.github.io/xds-agda/PCF/), and
-[Scm](https://pdmosses.github.io/xds-agda/Scm/)
-(a simple sublanguage of Scheme).
-
-{{< alert "comment" >}}
-Comments and suggestions for improvement are welcome!
-{{< /alert >}}
 
 [^1]:
     A denotational semantics of a programming language maps programs and their phrases
