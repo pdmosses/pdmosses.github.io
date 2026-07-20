@@ -8,12 +8,11 @@ tags:
 - documentation
 ---
 
-Just the Docs (contributor since 2016, maintainer since 2020) is a theme for generating static websites with [Jekyll].
+Just the Docs (contributor since 2016, maintainer from 2020 to 2025) is a theme for generating static websites with [Jekyll].
 Source files for web pages can use [Markdown], the [Liquid] templating language, and HTML.
-
-I have used Just the Docs for the [CBS-beta] and [CBS IDE] websites.
-
 See the [Just the Docs] website.
+
+The [CBS-beta] and [CBS IDE] websites were implemented using unreleased extensions of Just the Docs. 
 
 [Just the Docs]: https://just-the-docs.com
 [Jekyll]: https://jekyllrb.com
