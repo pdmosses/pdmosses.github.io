@@ -7,11 +7,16 @@ cascade:
 ---
 This section lists my involvement in scientific meetings since 2005.
 
+- [IFIP WG 2.2](https://www.uni-muenster.de/IFIP-WG22/):
+  *60th Anniversary Meeting of the Working Group on Formal Description of Programming Concepts*,
+  Brussels, Belgium, 15–18 September 2026
+  (Emeritus member, invited speaker)
 - [MFPS 2026](https://ul-fmf.github.io/mfps-sstt-2026//mfps/):
   *42nd Conference on Mathematical Foundations of Programming Semantics (MFPS XLII)*, Ljubljana, Slovenia, 1–3 June 2026
   ([paper](https://ul-fmf.github.io/mfps-sstt-2026/files/pdfs/mfps/MFPS26-17.pdf): *Mechanising Denotational Semantics in Agda*, with [Jesper Cockx](https://jesper.sikanda.be) and [Bernhard Reus](https://profiles.sussex.ac.uk/p115097-bernhard-reus/); [code](https://pdmosses.github.io/mfps2026-agda/); [slides](https://ul-fmf.github.io/mfps-sstt-2026/files/slides/peter-mosses.pdf))
 - [GPCE 2026](https://2026.ecoop.org/home/gpce-2026):
-  *25th International Conference on Generative Programming: Concepts & Experiences*, Brussels, Belgium, 29 June 2026
+  *25th International Conference on Generative Programming: Concepts & Experiences*,
+  Brussels, Belgium, 29 June 2026
   (PC member)
 - [AIM-XLII](https://wiki.portal.chalmers.se/agda/Main/AIMXLII "Wiki"):
   *42nd Agda Implementors' Meeting*,
