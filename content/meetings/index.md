@@ -11,6 +11,13 @@ This section lists my involvement in scientific meetings since 2005.
   *60th Anniversary Meeting of the Working Group on Formal Description of Programming Concepts*,
   Brussels, Belgium, 15–18 September 2026
   (Emeritus member, invited speaker)
+- [Plotkin 80](https://events.inf.ed.ac.uk/plotkin80/),
+  [LFCS 40](https://events.inf.ed.ac.uk/lfcs40/),
+  [Wadler 70](https://events.inf.ed.ac.uk/wadler70/): Symposia celebrating
+  *Gordon Plotkin's 80th birthday*,
+  *the 40th anniversary of the Laboratory for Foundations of Computer Science*,
+  and *Phil Wadler's 70th birthday*,
+  Edinburgh, Scotland, 7–9 September 2026
 - [MFPS 2026](https://ul-fmf.github.io/mfps-sstt-2026//mfps/):
   *42nd Conference on Mathematical Foundations of Programming Semantics (MFPS XLII)*, Ljubljana, Slovenia, 1–3 June 2026
   ([paper](https://ul-fmf.github.io/mfps-sstt-2026/files/pdfs/mfps/MFPS26-17.pdf): *Mechanising Denotational Semantics in Agda*, with [Jesper Cockx](https://jesper.sikanda.be) and [Bernhard Reus](https://profiles.sussex.ac.uk/p115097-bernhard-reus/); [code](https://pdmosses.github.io/mfps2026-agda/); [slides](https://ul-fmf.github.io/mfps-sstt-2026/files/slides/peter-mosses.pdf))
