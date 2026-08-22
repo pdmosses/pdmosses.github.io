@@ -14,6 +14,8 @@ and use the Agda type-checker to test its well-formedness.
 A secondary aim is to test whether the denotations of individual programs have
 expected properties.
 
+
+
 ## The Problem
 
 A Scott–Strachey style denotational semantics[^1] is based on Scott-domains.
@@ -46,17 +48,18 @@ The experiments currently include Agda formalizations of the denotational semant
 [Scm](https://pdmosses.github.io/xds-agda/Scm/)
 (a simple sublanguage of Scheme).
 These experiments are reported in
-*[Mechanising Denotational Semantics in Agda*](https://ul-fmf.github.io/mfps-sstt-2026/files/pdfs/mfps/MFPS26-17.pdf), with [Jesper Cockx](https://jesper.sikanda.be) and [Bernhard Reus](https://profiles.sussex.ac.uk/p115097-bernhard-reus/) (MFPS 2026),
-see the accompanying [website](https://pdmosses.github.io/mfps2026-agda/).
-
+*[Mechanising Denotational Semantics in Agda*](https://ul-fmf.github.io/mfps-sstt-2026/files/pdfs/mfps/MFPS26-17.pdf), with [Jesper Cockx](https://jesper.sikanda.be) and [Bernhard Reus](https://profiles.sussex.ac.uk/p115097-bernhard-reus/)
+([MFPS 2026](https://ul-fmf.github.io/mfps-sstt-2026//mfps/)).
+See the accompanying [website](https://pdmosses.github.io/mfps2026-agda/)
+and [slides](https://ul-fmf.github.io/mfps-sstt-2026/files/slides/peter-mosses.pdf).
 
 {{< alert "comment" >}}
 Comments and suggestions for improvement are welcome!
 {{< /alert >}}
 
-The lightweight approach simply assumed that all Agda types are Scott-domains,
-and that all Agda functions have fixed points.
-Such assumptions are obviously unsound,
+The lightweight approach simply assumed that some Agda types are Scott-domains,
+and that *all* Agda functions between domains have fixed points.
+Such assumptions are unsound,
 but the Agda proof assistant accepted them,
 and their unsoundness did not affect checking definitions for well-formedness.
 
