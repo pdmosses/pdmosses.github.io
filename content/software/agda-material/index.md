@@ -8,7 +8,16 @@ tags:
 - Agda
 ---
 
-# About Agda-Material
+{{< alert >}}
+**Development of Agda-Material terminated in July 2026!**
+{{< /alert >}}
+
+*[Agda-Pages]* supersedes *Agda-Material*. It is based on the same principles
+as *Agda-Material*, but incorporates some significant simplifications. It also
+avoids the dependencies on the unmaintained *MkDocs v1.x* website builder and
+the *Material for MkDocs* theme.
+
+---
 
 [Agda-Material] supports **generation of websites** with
 **highlighted, hyperlinked listings** of (plain or literate) Agda source code,
@@ -115,6 +124,7 @@ the official [TypeTopology] website, and is unversioned. The Makefile used to
 generate it currently differs slightly from the Makefile used for the
 [Agda-Material] website.
 
+[Agda-Pages]: agda-pages/index.md
 [Agda-Material]: https://pdmosses.github.io/agda-material/default/about/
 [README]: https://pdmosses.github.io/agda-material/default/
 [User Guide]: https://pdmosses.github.io/agda-material/default/user-guide/
