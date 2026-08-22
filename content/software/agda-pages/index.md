@@ -21,7 +21,7 @@ of a website produced using Agda-Pages; the repository illustrates how to
 organize the required files and configure the website navigation.
 
 {{< alert >}}
-*Agda-Pages* supersedes *Agda-Material!*
+*Agda-Pages* supersedes *Agda-Material*
 {{< /alert >}}
 
 Development of *[Agda-Material]* terminated in July 2026.
