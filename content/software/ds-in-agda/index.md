@@ -48,9 +48,10 @@ The experiments currently include Agda formalizations of the denotational semant
 [Scm](https://pdmosses.github.io/xds-agda/Scm/)
 (a simple sublanguage of Scheme).
 These experiments are reported in
-*[Mechanising Denotational Semantics in Agda*](https://ul-fmf.github.io/mfps-sstt-2026/files/pdfs/mfps/MFPS26-17.pdf), with [Jesper Cockx](https://jesper.sikanda.be) and [Bernhard Reus](https://profiles.sussex.ac.uk/p115097-bernhard-reus/)
+*Mechanising Denotational Semantics in Agda*, with [Jesper Cockx](https://jesper.sikanda.be) and [Bernhard Reus](https://profiles.sussex.ac.uk/p115097-bernhard-reus/)
 ([MFPS 2026](https://ul-fmf.github.io/mfps-sstt-2026//mfps/)).
-See the accompanying [website](https://pdmosses.github.io/mfps2026-agda/)
+See the [preprint](https://doi.org/10.48550/arXiv.2610.14898 "arXiv")
+and the accompanying [website](https://pdmosses.github.io/mfps2026-agda/)
 and [slides](https://ul-fmf.github.io/mfps-sstt-2026/files/slides/peter-mosses.pdf).
 
 {{< alert "comment" >}}

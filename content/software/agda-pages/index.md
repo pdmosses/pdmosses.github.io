@@ -94,19 +94,21 @@ released versions of the library, and show how the library has evolved.
 The [TypeTopologyPages] website is a prototype of an alternative rendering of
 the official [TypeTopology] website, and is unversioned.
 
-[Agda-Pages]:             https://pdmosses.github.io/agda-pages/
-[User Guide]:             https://pdmosses.github.io/agda-pages/User-Guide/
-
 [Agda-Material]:          agda-material/index.md
 [Agda-Material template]: https://github.com/pdmosses/agda-material/
+
 [Agda-Pages repository]:  https://github.com/pdmosses/agda-pages/
+[Agda-Pages]:             https://pdmosses.github.io/agda-pages/default/
+[User Guide]:             https://pdmosses.github.io/agda-pages/default/User-Guide/
 
 [Agda-Pages Demo]:        https://pdmosses.github.io/agda-pages-demo/
 [Demo]:                   https://pdmosses.github.io/agda-pages-demo/Demo/
 [Library]:                https://pdmosses.github.io/agda-pages-demo/Library/
-[Agda-StdLib]:            https://pdmosses.github.io/agda-stdlib/pages/master/
-[TypeTopologyPages]:      https://pdmosses.github.io/TypeTopology/
+
 [XDS-Agda]:               https://pdmosses.github.io/xds-agda/dev/
 
 [Standard Library]:       https://agda.github.io/agda-stdlib/
+[Agda-StdLib]:            https://pdmosses.github.io/agda-stdlib/pages/master/
+
 [TypeTopology]:           https://martinescardo.github.io/TypeTopology/
+[TypeTopologyPages]:      https://pdmosses.github.io/TypeTopology/
