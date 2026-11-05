@@ -16,11 +16,12 @@ Lists of previous publications
 
 ## Latest publications
 
-- **Mechanising Denotational Semantics in Agda**  
+- **[Mechanising Denotational Semantics in Agda](https://doi.org/10.46298/entics.19668)** {{< icon "open-access" >}}  
   with [Jesper Cockx](https://jesper.sikanda.be)
   and [Bernhard Reus](https://profiles.sussex.ac.uk/p115097-bernhard-reus/)  
-  to be published in *Proceedings of MFPS XLII*, 2026  
-  *[preprint](https://doi.org/10.48550/arXiv.2610.14898 "arXiv")*
+  in *MFPS 2026: Proceedings of the 42nd Conference on Mathematical Foundations of Programming Semantics (MFPS XLII)*  
+  *[preprint](https://doi.org/10.48550/arXiv.2610.14898 "arXiv")*  
+  *[website](https://pdmosses.github.io/mfps2026-agda/)*
 
 - **[Checking a Denotational Semantics of Scheme in Agda](https://doi.org/10.1145/3759537.3762694 "ACM Digital Library")** {{< icon "open-access" >}}  
   in *Scheme ’25: Proceedings of the 26th ACM SIGPLAN International Workshop on Scheme and Functional Programming*  
